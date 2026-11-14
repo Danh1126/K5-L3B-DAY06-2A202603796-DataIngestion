@@ -1,0 +1,1390 @@
+[
+  {
+    "question_id": "q01",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "In what year did Pope Paul III officially recognize the Order of Jesus?",
+    "applied_filter": null,
+    "filter_compliant": null,
+    "gold_source_id": "gutenberg-27963",
+    "gold_page": 3,
+    "evidence_quote": "In 1540 Pope Paul III. recognized the new order and gave it the sanction of the Church.",
+    "hit_at_1": 0,
+    "hit_at_3": 1,
+    "top_k_hits": [
+      {
+        "rank": 1,
+        "chunk_id": "gutenberg-27963::C::p003::c000",
+        "score": 0.568292,
+        "text": "Loyola (1491-1556), the originator of the order, was a Spanish\nnobleman. While recovering from a severe wound received in battle, he\nread some religious books which made such a profound impression upon him\nthat he resolved to consecrate himself to religious work. Not being an\neducated man, he devoted some years to study, and while at the\nuniversity of Paris he gathered around him other young men who also were\nready to consecrate themselves to the service of God. They formed\nthemselves into the \"Order of Jesus,\" with the avowed purpose at first\nof rescuing Jerusalem from the hands of the infidels. This was not to\nbe done by force of arms, as in case of the crusaders, but by peaceful\nmeans. This purpose was abandoned, but the zealous missionary spirit of\nthe Jesuits endured. In 1540 Pope Pau",
+        "metadata": {
+          "unit_id": "chapter_xxx_u02",
+          "chapter": "CHAPTER XXX",
+          "part": "part_3",
+          "file_item": "4233368849469751372_27963-h-3.htm.xhtml",
+          "char_count": 2092,
+          "strategy": "C",
+          "chunk_index": 0,
+          "document_id": "gutenberg-27963",
+          "source": "data/book.epub",
+          "page": 3
+        }
+      },
+      {
+        "rank": 2,
+        "chunk_id": "gutenberg-27963::C::p003::c001",
+        "score": 0.543148,
+        "text": "ry spirit of\nthe Jesuits endured. In 1540 Pope Paul III. recognized the new order and\ngave it the sanction of the Church. The organization was military in\ncharacter, Loyola becoming its first general.",
+        "metadata": {
+          "unit_id": "chapter_xxx_u02",
+          "chapter": "CHAPTER XXX",
+          "part": "part_3",
+          "file_item": "4233368849469751372_27963-h-3.htm.xhtml",
+          "char_count": 2092,
+          "strategy": "C",
+          "chunk_index": 1,
+          "document_id": "gutenberg-27963",
+          "source": "data/book.epub",
+          "page": 3
+        }
+      },
+      {
+        "rank": 3,
+        "chunk_id": "gutenberg-27963::C::p002::c002",
+        "score": 0.441531,
+        "text": "day, to train the young.\nAt this very time she was maintaining many schools. But the \"Order of\nJesus\" was destined to systematize education in such a degree as the\nChurch had never witnessed.",
+        "metadata": {
+          "unit_id": "chapter_xxx_u01",
+          "chapter": "CHAPTER XXX",
+          "part": "part_3",
+          "file_item": "4233368849469751372_27963-h-3.htm.xhtml",
+          "char_count": 2869,
+          "strategy": "C",
+          "chunk_index": 2,
+          "document_id": "gutenberg-27963",
+          "source": "data/book.epub",
+          "page": 2
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "q02",
+    "split": "dev",
+    "type": "dieu_kien_ngoai_le",
+    "question": "Were poor boys or children of humble birth excluded from admission to Jesuit schools?",
+    "applied_filter": null,
+    "filter_compliant": null,
+    "gold_source_id": "gutenberg-27963",
+    "gold_page": 4,
+    "evidence_quote": "the Constitutions expressly laid down that poverty and mean extraction were never to be any hindrance to a pupil's admission.",
+    "hit_at_1": 1,
+    "hit_at_3": 1,
+    "top_k_hits": [
+      {
+        "rank": 1,
+        "chunk_id": "gutenberg-27963::C::p004::c001",
+        "score": 0.646436,
+        "text": "nough to supply the\ndemands for higher education.\" [65] This shows that they held higher\neducation as of the greater importance, and the same author further\nadds: \"Besides, the whole intellectual training of the Jesuits fitted\nthem better for the higher branches.\" They reached sons of princes,\nnoblemen, and others who constituted the influential classes, [66] but\n\"the Constitutions expressly laid down that poverty and mean extraction\nwere never to be any hindrance to a pupil's admission.\" [67] Instruction\nwas free.",
+        "metadata": {
+          "unit_id": "chapter_xxx_u03",
+          "chapter": "CHAPTER XXX",
+          "part": "part_3",
+          "file_item": "4233368849469751372_27963-h-3.htm.xhtml",
+          "char_count": 1818,
+          "strategy": "C",
+          "chunk_index": 1,
+          "document_id": "gutenberg-27963",
+          "source": "data/book.epub",
+          "page": 4
+        }
+      },
+      {
+        "rank": 2,
+        "chunk_id": "gutenberg-27963::C::p004::c000",
+        "score": 0.607804,
+        "text": "Jesuit Education. —Unlike the monastics, the Jesuits mingled with the\nworld; they assumed no peculiarities of dress, and held themselves ready\nto act as missionaries to the most remote parts of the world, as agents\nof the Church to which they so fully consecrated themselves, and as\nteachers of youth. They established schools everywhere, and placed them\nin charge of teachers of remarkable skill and pedagogical training. [64] We have seen that their efforts were chiefly directed to higher\neducation, their schools being designed for boys not less than fourteen\nyears of age. In general, primary education did not enter into their\nscheme. Schwickerath thinks that the \"Jesuits could not undertake\nelementary education\" because \"they had never men enough to supply the\ndemands for higher education.\"",
+        "metadata": {
+          "unit_id": "chapter_xxx_u03",
+          "chapter": "CHAPTER XXX",
+          "part": "part_3",
+          "file_item": "4233368849469751372_27963-h-3.htm.xhtml",
+          "char_count": 1818,
+          "strategy": "C",
+          "chunk_index": 0,
+          "document_id": "gutenberg-27963",
+          "source": "data/book.epub",
+          "page": 4
+        }
+      },
+      {
+        "rank": 3,
+        "chunk_id": "gutenberg-27963::C::p005::c000",
+        "score": 0.578833,
+        "text": "Every Jesuit school was divided into two departments, the lower, studia inferiora , consisting of five classes, and the higher, studia\nsuperiora , requiring two or three years. Boys were admitted to the\nlower course at the age of fourteen, and the work consisted chiefly of\nthe study of the humanities, while that of the advanced course embraced\nphilosophy and theology. [68] With reference to these courses of study,\nQuick says, \"The Jesuit system stands out in the history of education as\na remarkable instance of a school system elaborately thought out and\nworked as a whole.\" Again, he says of the Ratio Studiorum : [69] \"It\npoints out a perfectly attainable goal, and carefully defines the road\nby which that goal is to be approached. For each class was prescribed\nnot only the work to be done,",
+        "metadata": {
+          "unit_id": "chapter_xxx_u04",
+          "chapter": "CHAPTER XXX",
+          "part": "part_3",
+          "file_item": "4233368849469751372_27963-h-3.htm.xhtml",
+          "char_count": 1622,
+          "strategy": "C",
+          "chunk_index": 0,
+          "document_id": "gutenberg-27963",
+          "source": "data/book.epub",
+          "page": 5
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "q03",
+    "split": "dev",
+    "type": "dien_dat_lai",
+    "question": "What major contribution to spelling instruction was introduced by the Port Royalists?",
+    "applied_filter": null,
+    "filter_compliant": null,
+    "gold_source_id": "gutenberg-27963",
+    "gold_page": 8,
+    "evidence_quote": "Their greatest contribution to education is the phonic method of spelling.",
+    "hit_at_1": 0,
+    "hit_at_3": 1,
+    "top_k_hits": [
+      {
+        "rank": 1,
+        "chunk_id": "gutenberg-27963::C::p016::c003",
+        "score": 0.540581,
+        "text": "3. The Jesuits established a remarkable system of schools, noted for\ntheir thoroughness, for their singleness of purpose, for their rapid\ngrowth, and for their trained teachers. They gave little attention to\nprimary education, but sought to reach the higher classes. Emulation was\nthe principal incentive employed.\n\n4. Opposed to the Jesuit education was that of the Port Royalists. They\nappealed to the intelligence of the children and cultivated the\nsense-perceptions. They invented the phonic method of spelling.\n\n5. Sturm's celebrated course of study was introduced during this century\nat Strasburg.\n\n6. The method of double translations in learning a language was taught\nby Ascham and Sturm.",
+        "metadata": {
+          "unit_id": "chapter_xxxi_u08",
+          "chapter": "CHAPTER XXXI",
+          "part": "part_3",
+          "file_item": "4233368849469751372_27963-h-3.htm.xhtml",
+          "char_count": 3021,
+          "strategy": "C",
+          "chunk_index": 3,
+          "document_id": "gutenberg-27963",
+          "source": "data/book.epub",
+          "page": 16
+        }
+      },
+      {
+        "rank": 2,
+        "chunk_id": "gutenberg-27963::C::p008::c002",
+        "score": 0.489079,
+        "text": "Their greatest contribution to education is the phonic method of\nspelling. They also laid stress upon the use of objects, the development\nof the sense perceptions, especially in early childhood. One of their\naxioms was, \"The intelligence of childhood always being very dependent\non the senses, we must, as far as possible, address our instruction to\nthe senses, and cause it to reach the mind, not only through hearing,\nbut also through seeing.\" This appears to be the first instance in which object teaching was taught as a principle, a principle which Bacon,\nComenius, Pestalozzi, and Froebel worked out, and which has been one of\nthe most important factors of modern educational progress.\n\n[63] \"Jesuit Education,\" p. 77.",
+        "metadata": {
+          "unit_id": "chapter_xxx_u07",
+          "chapter": "CHAPTER XXX",
+          "part": "part_3",
+          "file_item": "4233368849469751372_27963-h-3.htm.xhtml",
+          "char_count": 2534,
+          "strategy": "C",
+          "chunk_index": 2,
+          "document_id": "gutenberg-27963",
+          "source": "data/book.epub",
+          "page": 8
+        }
+      },
+      {
+        "rank": 3,
+        "chunk_id": "gutenberg-27963::C::p008::c000",
+        "score": 0.488129,
+        "text": "6. They made use of emulation as a means of stimulating ambition,—a\nprinciple that tends to arouse the baser motives, and which is therefore\nto be used guardedly.\n\n7. They were indefatigable in missionary enterprise, and zealous in the\npropagation of their principles, both religious and educational.\n\n8. They stimulated authorship, advanced learning, and produced many\ngreat men.\n\n9. They exerted a powerful influence upon the intellectual, social, and\npolitical movements of their time.\n\nTHE PORT ROYALISTS",
+        "metadata": {
+          "unit_id": "chapter_xxx_u07",
+          "chapter": "CHAPTER XXX",
+          "part": "part_3",
+          "file_item": "4233368849469751372_27963-h-3.htm.xhtml",
+          "char_count": 2534,
+          "strategy": "C",
+          "chunk_index": 0,
+          "document_id": "gutenberg-27963",
+          "source": "data/book.epub",
+          "page": 8
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "q04",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "What is the title of Roger Ascham's famous educational work that became the first educational classic in English?",
+    "applied_filter": null,
+    "filter_compliant": null,
+    "gold_source_id": "gutenberg-27963",
+    "gold_page": 9,
+    "evidence_quote": "His chief literary work is his \"Scholemaster,\" which is the first educational classic in English.",
+    "hit_at_1": 0,
+    "hit_at_3": 1,
+    "top_k_hits": [
+      {
+        "rank": 1,
+        "chunk_id": "gutenberg-27963::C::p009::c001",
+        "score": 0.622378,
+        "text": "Roger Ascham was the most celebrated English educator of the sixteenth\ncentury. He was educated at Cambridge, and studied three years in\nGermany. He had a thorough knowledge of the classic languages. For these\nreasons he was chosen tutor to Elizabeth, a position which he held for\ntwo years. Upon her accession to the throne, Ascham came to read with\nher several hours a day, and she retained her affection for her old\nteacher throughout his life.",
+        "metadata": {
+          "unit_id": "chapter_xxxi_u01",
+          "chapter": "CHAPTER XXXI",
+          "part": "part_3",
+          "file_item": "4233368849469751372_27963-h-3.htm.xhtml",
+          "char_count": 1867,
+          "strategy": "C",
+          "chunk_index": 1,
+          "document_id": "gutenberg-27963",
+          "source": "data/book.epub",
+          "page": 9
+        }
+      },
+      {
+        "rank": 2,
+        "chunk_id": "gutenberg-27963::C::p009::c000",
+        "score": 0.599158,
+        "text": "Literature. — H. M. Skinner , The Schoolmaster in Literature, The\nSchoolmaster in Comedy and Satire; Gill , Systems of Education; Quick , Educational Reformers; Williams , History of Modern Education; Besant , Rabelais; Monroe , Educational Ideal; Collins , Montaigne; Emerson , Representative Men; Vogel , Geschichte der Pädagogik; Carlisle , Two Great Teachers (Ascham and Arnold); Azarias , Essays\nEducational; Davidson , History of Education.\n\nWe have thus far discussed educators who were directly connected with\nthe great Protestant and Catholic movements. There were others who were\nmore or less independent of these movements. Among these we may mention\nRoger Ascham, Rabelais, and Montaigne.\n\nASCHAM (1515-1568)",
+        "metadata": {
+          "unit_id": "chapter_xxxi_u01",
+          "chapter": "CHAPTER XXXI",
+          "part": "part_3",
+          "file_item": "4233368849469751372_27963-h-3.htm.xhtml",
+          "char_count": 1867,
+          "strategy": "C",
+          "chunk_index": 0,
+          "document_id": "gutenberg-27963",
+          "source": "data/book.epub",
+          "page": 9
+        }
+      },
+      {
+        "rank": 3,
+        "chunk_id": "gutenberg-27963::C::p009::c002",
+        "score": 0.549585,
+        "text": "His chief literary work is his \"Scholemaster,\" which is the first\neducational classic in English. Dr. Johnson says of this book, \"It\ncontains, perhaps, the best advice that ever was given for the study of\nlanguages.\" This method was as follows, given in Ascham's words: \"First,\nlet him teach the child, cheerfully and plainly, the cause and matter of\nthe letter (Cicero's Epistles); then, let him construe it into English\nso oft as the child may easily carry away the understanding of it;\nlastly, parse it over perfectly. This done, then let the child by and by\nboth construe and parse it over again; so that it may appear that the\nchild doubteth in nothing that his master has taught him before.",
+        "metadata": {
+          "unit_id": "chapter_xxxi_u01",
+          "chapter": "CHAPTER XXXI",
+          "part": "part_3",
+          "file_item": "4233368849469751372_27963-h-3.htm.xhtml",
+          "char_count": 1867,
+          "strategy": "C",
+          "chunk_index": 2,
+          "document_id": "gutenberg-27963",
+          "source": "data/book.epub",
+          "page": 9
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "q05",
+    "split": "dev",
+    "type": "dieu_kien_ngoai_le",
+    "question": "According to Montaigne's educational views, what was a major weakness regarding the education of women?",
+    "applied_filter": null,
+    "filter_compliant": null,
+    "gold_source_id": "gutenberg-27963",
+    "gold_page": 15,
+    "evidence_quote": "A decided weakness in his system is found in his ideas concerning women. He made no provision for their education, and, indeed, expressed great contempt for their abilities of either mind or heart.",
+    "hit_at_1": 1,
+    "hit_at_3": 1,
+    "top_k_hits": [
+      {
+        "rank": 1,
+        "chunk_id": "gutenberg-27963::C::p015::c002",
+        "score": 0.726778,
+        "text": "A decided weakness in his system is found in his ideas concerning women.\nHe made no provision for their education, and, indeed, expressed great\ncontempt for their abilities of either mind or heart.\n\nMontaigne's chief literary work is his \"Essays.\" Compayré pronounces\nMontaigne's pedagogy, \"a pedagogy of good sense,\" and further adds that\nhe has \"remained, after three centuries, a sure guide in the matter of\nintellectual education.\"\n\nObservation and experience were to be abundantly employed, and visits to\nother lands, together with intercourse with intelligent men everywhere,\nwere to \"sharpen our wits by rubbing them upon those of others.\"",
+        "metadata": {
+          "unit_id": "chapter_xxxi_u07",
+          "chapter": "CHAPTER XXXI",
+          "part": "part_3",
+          "file_item": "4233368849469751372_27963-h-3.htm.xhtml",
+          "char_count": 1549,
+          "strategy": "C",
+          "chunk_index": 2,
+          "document_id": "gutenberg-27963",
+          "source": "data/book.epub",
+          "page": 15
+        }
+      },
+      {
+        "rank": 2,
+        "chunk_id": "gutenberg-27963::C::p016::c000",
+        "score": 0.598604,
+        "text": "To sum up, we may say that the pedagogy of Montaigne teaches the\ntraining and use of the senses; the study of science; the learning of\nthe mother tongue first by conversation, and then the language of our\nneighbors with whom we come in contact; the abolition of corporal\npunishment, and the beautifying of schoolrooms. This surely is no small\ncontribution to education. His definition of education is worthy of\nnote. He says, \"It is not the mind only, nor the body, but the whole man\nthat is to be educated.\" [83]",
+        "metadata": {
+          "unit_id": "chapter_xxxi_u08",
+          "chapter": "CHAPTER XXXI",
+          "part": "part_3",
+          "file_item": "4233368849469751372_27963-h-3.htm.xhtml",
+          "char_count": 3021,
+          "strategy": "C",
+          "chunk_index": 0,
+          "document_id": "gutenberg-27963",
+          "source": "data/book.epub",
+          "page": 16
+        }
+      },
+      {
+        "rank": 3,
+        "chunk_id": "gutenberg-27963::C::p015::c000",
+        "score": 0.588957,
+        "text": "Here we find a strong plea for humane forms of punishment and a severe\ncriticism of the prevailing practice of flogging, a practice which did\nnot cease until long after Montaigne's time. It is an equally forcible\nplea for beautiful and pleasant schoolrooms, decorated with works of art\nintended to awaken and cultivate the aesthetic sense of the children,\nwhile contributing to their happiness. It has been left to the educators\nof the end of the nineteenth century to take up and seriously act upon\nthis suggestion made over three hundred years ago. \"The purpose of\neducation,\" said Montaigne, \"is the training, not of a grammarian, or a\nlogician, but of a complete gentleman.\" Education should be of a\npractical nature. The child must become familiar with the things about\nhim. He must learn his ow",
+        "metadata": {
+          "unit_id": "chapter_xxxi_u07",
+          "chapter": "CHAPTER XXXI",
+          "part": "part_3",
+          "file_item": "4233368849469751372_27963-h-3.htm.xhtml",
+          "char_count": 1549,
+          "strategy": "C",
+          "chunk_index": 0,
+          "document_id": "gutenberg-27963",
+          "source": "data/book.epub",
+          "page": 15
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "q06",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "Which treaty ended the Thirty Years' War in 1648 and secured religious liberty?",
+    "applied_filter": null,
+    "filter_compliant": null,
+    "gold_source_id": "gutenberg-27963",
+    "gold_page": 17,
+    "evidence_quote": "this lasted from 1618 till 1648, when the Peace of Westphalia secured religious liberty to all men.",
+    "hit_at_1": 1,
+    "hit_at_3": 1,
+    "top_k_hits": [
+      {
+        "rank": 1,
+        "chunk_id": "gutenberg-27963::C::p017::c002",
+        "score": 0.599087,
+        "text": "England was torn asunder by civil war, which resulted in the death of\nCharles I. and the establishment of the Commonwealth under\nCromwell,—the struggle between Cavalier and Roundhead , between\nestablished church and Puritan, ending finally in the revolution of\n1688. The country was in a religious ferment during the greater part of\nthis century, caused by a growing jealousy for the maintenance of the\nprinciple of the right to worship God according to the dictates of one's\nown conscience. Nor was the struggle less virulent or disastrous in\ncontinental Europe. The religious upheaval of the previous century\nculminated in the terrible conflict known as the Thirty Years' War; this\nlasted from 1618 till 1648, when the Peace of Westphalia secured\nreligious liberty to all men. Northern Germany, Aus",
+        "metadata": {
+          "unit_id": "chapter_xxxii_u01",
+          "chapter": "CHAPTER XXXII",
+          "part": "part_3",
+          "file_item": "4233368849469751372_27963-h-3.htm.xhtml",
+          "char_count": 1843,
+          "strategy": "C",
+          "chunk_index": 2,
+          "document_id": "gutenberg-27963",
+          "source": "data/book.epub",
+          "page": 17
+        }
+      },
+      {
+        "rank": 2,
+        "chunk_id": "gutenberg-27963::C::p017::c003",
+        "score": 0.519951,
+        "text": "eligious liberty to all men. Northern Germany, Austria, France,\nHolland, Denmark, and Sweden, as well as minor countries, were involved\nin this great war.",
+        "metadata": {
+          "unit_id": "chapter_xxxii_u01",
+          "chapter": "CHAPTER XXXII",
+          "part": "part_3",
+          "file_item": "4233368849469751372_27963-h-3.htm.xhtml",
+          "char_count": 1843,
+          "strategy": "C",
+          "chunk_index": 3,
+          "document_id": "gutenberg-27963",
+          "source": "data/book.epub",
+          "page": 17
+        }
+      },
+      {
+        "rank": 3,
+        "chunk_id": "gutenberg-27963::C::p017::c001",
+        "score": 0.460689,
+        "text": "Political and Historical Conditions. —The seventeenth century was\nremarkable for the wars for religious supremacy. The Reformation had\nchallenged the authority of the Church, aroused a questioning spirit,\nand instilled into men's minds a love for religious liberty. During the\nlatter half of the sixteenth century, Europe had swayed back and forth\nbetween Protestantism and Catholicism, according as success in arms had\nfavored one side or the other. The spirit of Protestantism had taken\npossession more especially of the common people, who formed the bone and\nsinew of the armies. Bitter animosities existed between the adherents of\nthe papal church and the reformers, which found expression in bloodshed,\nrapine, and destruction of property.",
+        "metadata": {
+          "unit_id": "chapter_xxxii_u01",
+          "chapter": "CHAPTER XXXII",
+          "part": "part_3",
+          "file_item": "4233368849469751372_27963-h-3.htm.xhtml",
+          "char_count": 1843,
+          "strategy": "C",
+          "chunk_index": 1,
+          "document_id": "gutenberg-27963",
+          "source": "data/book.epub",
+          "page": 17
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "q07",
+    "split": "dev",
+    "type": "dien_dat_lai",
+    "question": "How did the Duke of Weimar's 1619 decree regulate mandatory schooling for children?",
+    "applied_filter": null,
+    "filter_compliant": null,
+    "gold_source_id": "gutenberg-27963",
+    "gold_page": 19,
+    "evidence_quote": "In 1619 the Duke of Weimar decreed that all children, girls as well as boys, should be kept in school for at least six years,—from six to twelve.",
+    "hit_at_1": 1,
+    "hit_at_3": 1,
+    "top_k_hits": [
+      {
+        "rank": 1,
+        "chunk_id": "gutenberg-27963::C::p019::c002",
+        "score": 0.726222,
+        "text": "The Educational Situation. —These political conditions had a marked\ninfluence upon education. Schools were abandoned, colleges gave up their\ncharters, and people were content to allow their children to grow up in\nignorance. Indeed, it was not to be expected that, in the midst of their\npoverty and sorrow, parents should care for education. And yet, some\nmost important and wise school laws were enacted and put into force,\nwhich form the basis of the present German school system, as well as the\nschool systems of many other countries. In 1619 the Duke of Weimar\ndecreed that all children, girls as well as boys, should be kept in\nschool for at least six years,—from six to twelve. This is the first\nefficient compulsory education law on record intended for all classes of\nchildren.",
+        "metadata": {
+          "unit_id": "chapter_xxxii_u03",
+          "chapter": "CHAPTER XXXII",
+          "part": "part_3",
+          "file_item": "4233368849469751372_27963-h-3.htm.xhtml",
+          "char_count": 1977,
+          "strategy": "C",
+          "chunk_index": 2,
+          "document_id": "gutenberg-27963",
+          "source": "data/book.epub",
+          "page": 19
+        }
+      },
+      {
+        "rank": 2,
+        "chunk_id": "gutenberg-27963::C::p020::c000",
+        "score": 0.669495,
+        "text": "Besides Weimar, Würtemberg, Hesse-Darmstadt, Mecklenburg, Holstein,\nHesse-Cassel, and other provinces were active in school work. They\norganized schools, appointed teachers, and formulated school\nregulations. In 1642, Duke Ernst of Gotha adopted a new school\nregulation which was a century in advance of the time, and this action\nwas taken when the Thirty Years' War was at its height and in a\nterritory sadly devastated by contending armies.",
+        "metadata": {
+          "unit_id": "chapter_xxxii_u04",
+          "chapter": "CHAPTER XXXII",
+          "part": "part_3",
+          "file_item": "4233368849469751372_27963-h-3.htm.xhtml",
+          "char_count": 2454,
+          "strategy": "C",
+          "chunk_index": 0,
+          "document_id": "gutenberg-27963",
+          "source": "data/book.epub",
+          "page": 20
+        }
+      },
+      {
+        "rank": 3,
+        "chunk_id": "gutenberg-27963::C::p043::c002",
+        "score": 0.651009,
+        "text": "Summary of the Educational Progress of the Seventeenth Century. —1.\nSchool systems were established and compulsory attendance made efficient\nin Weimar in 1619, in Gotha in 1642, and in many other cities, showing a\ngrowing recognition of the principle of universal education and the duty\nof the State to assume the responsibility for its attainment.",
+        "metadata": {
+          "unit_id": "chapter_xxxiii_u23",
+          "chapter": "CHAPTER XXXIII",
+          "part": "part_3",
+          "file_item": "4233368849469751372_27963-h-3.htm.xhtml",
+          "char_count": 1522,
+          "strategy": "C",
+          "chunk_index": 2,
+          "document_id": "gutenberg-27963",
+          "source": "data/book.epub",
+          "page": 43
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "q08",
+    "split": "dev",
+    "type": "metadata_filter",
+    "question": "In this section's biographical account, what sentence was Francis Bacon given after confessing to corruption?",
+    "applied_filter": {
+      "chapter": "CHAPTER XXXIII"
+    },
+    "filter_compliant": true,
+    "gold_source_id": "gutenberg-27963",
+    "gold_page": 23,
+    "evidence_quote": "He was found guilty and condemned to imprisonment in the Tower during the pleasure of the king, and to a fine of £40,000;",
+    "hit_at_1": 0,
+    "hit_at_3": 0,
+    "top_k_hits": [
+      {
+        "rank": 1,
+        "chunk_id": "gutenberg-27963::C::p022::c002",
+        "score": 0.780499,
+        "text": "This lack of principle and greed for office, together with the luxurious\ntastes which kept Bacon constantly in debt, made him susceptible to\ncorruption. Accordingly he accepted bribes; and, when exposed, his\ndegradation from the highest office under the crown was most complete\nand humiliating. He was summoned before the bar of Parliament; and,\nfinding the evidence against him complete, he admitted his guilt and\npleaded for clemency. These are the words of his confession, \"Upon\nadvised consideration of the charges, descending into my own conscience\nand calling upon my memory to account so far as I am able, I do plainly\nand ingenuously confess that I am guilty of corruption, and do renounce\nall defense.\"",
+        "metadata": {
+          "unit_id": "chapter_xxxiii_u02",
+          "chapter": "CHAPTER XXXIII",
+          "part": "part_3",
+          "file_item": "4233368849469751372_27963-h-3.htm.xhtml",
+          "char_count": 2095,
+          "strategy": "C",
+          "chunk_index": 2,
+          "document_id": "gutenberg-27963",
+          "source": "data/book.epub",
+          "page": 22
+        }
+      },
+      {
+        "rank": 2,
+        "chunk_id": "gutenberg-27963::C::p021::c001",
+        "score": 0.614088,
+        "text": "But little is known of the early years of Francis Bacon, but it is\nprobable that he was well trained, as his father was a man of good\neducation, and the boy was able to enter Cambridge when only a little\nover twelve years of age. His father was for many years Lord Keeper of\nthe Seals, and this brought Francis in contact with court life, where\nhis precocity made him a favorite with the queen. He thus early acquired\nthat taste for the court, by which he climbed to the height of his\nambition only to fall therefrom in ignominious defeat.",
+        "metadata": {
+          "unit_id": "chapter_xxxiii_u01",
+          "chapter": "CHAPTER XXXIII",
+          "part": "part_3",
+          "file_item": "4233368849469751372_27963-h-3.htm.xhtml",
+          "char_count": 1704,
+          "strategy": "C",
+          "chunk_index": 1,
+          "document_id": "gutenberg-27963",
+          "source": "data/book.epub",
+          "page": 21
+        }
+      },
+      {
+        "rank": 3,
+        "chunk_id": "gutenberg-27963::C::p022::c001",
+        "score": 0.60426,
+        "text": "f the\npolitician, and sacrificed his best friends to further his selfish\ninterests. Concerning his actions toward his benefactor, Essex, Macaulay\nsays, \"This friend, so loved, so trusted, bore a principal part in\nruining the earl's fortunes, in shedding his blood, and in blackening\nhis memory. But let us be just to Bacon. We believe that, to the last,\nhe had no wish to injure Essex. Nay, we believe that he sincerely wished\nto serve Essex, as long as he could serve Essex without injuring\nhimself.\" [88] Such seeming mitigation of Bacon's ingratitude serves only\nto bring the Lord Chancellor's cowardice more completely to light.",
+        "metadata": {
+          "unit_id": "chapter_xxxiii_u02",
+          "chapter": "CHAPTER XXXIII",
+          "part": "part_3",
+          "file_item": "4233368849469751372_27963-h-3.htm.xhtml",
+          "char_count": 2095,
+          "strategy": "C",
+          "chunk_index": 1,
+          "document_id": "gutenberg-27963",
+          "source": "data/book.epub",
+          "page": 22
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "q09",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "In what year was Comenius's illustrated textbook 'Orbis Pictus' published?",
+    "applied_filter": null,
+    "filter_compliant": null,
+    "gold_source_id": "gutenberg-27963",
+    "gold_page": 30,
+    "evidence_quote": "The \"Orbis Pictus\" appeared in 1658.",
+    "hit_at_1": 1,
+    "hit_at_3": 1,
+    "top_k_hits": [
+      {
+        "rank": 1,
+        "chunk_id": "gutenberg-27963::C::p030::c000",
+        "score": 0.708762,
+        "text": "Summary of the Work of Comenius. —(1) He was the author of the first\nillustrated text-book, the \"Orbis Pictus.\" [103] The cost of\nillustrations was for a long time a serious barrier to their general\nadoption in schoolbooks; but modern inventions and improvements have\nremoved this obstacle, and many of the text-books of to-day are as\nvaluable for their illustrations as for their text. The \"Orbis Pictus\"\nappeared in 1658.\n\n(2) In his \"Great Didactic,\" he presents a scheme for general\norganization of the school system which covers the first twenty-four\nyears of life. It divides this time into four equal periods of six\nyears, each as follows:—\n\n1. Infancy , or the mother school, from birth up to six years of age.\n\n2. Boyhood , the vernacular or national school, from six to twelve.",
+        "metadata": {
+          "unit_id": "chapter_xxxiii_u10",
+          "chapter": "CHAPTER XXXIII",
+          "part": "part_3",
+          "file_item": "4233368849469751372_27963-h-3.htm.xhtml",
+          "char_count": 1615,
+          "strategy": "C",
+          "chunk_index": 0,
+          "document_id": "gutenberg-27963",
+          "source": "data/book.epub",
+          "page": 30
+        }
+      },
+      {
+        "rank": 2,
+        "chunk_id": "gutenberg-27963::C::p029::c000",
+        "score": 0.528303,
+        "text": "Pedagogical Work. —The great educational works of Comenius are his\n\"Gate of Tongues Unlocked,\" the \"Great Didactic,\" and his \"Orbis\nPictus.\" Mr. Quick thinks that the \"Great Didactic\" contains, in the\nbest form, the principles he afterward endeavored to work out\" [100] in\nhis other educational writings. \"The services of Comenius to pedagogy,\"\nsays Professor Williams, \"were of a threefold character, in each of\nwhich his merit was very great. First, he was the true originator of the\nprinciples and methods of the Innovators. Second, he was a great\neducational systematist. Third, he was the author of improved\ntext-books, which were long and widely famous.\" [101] This is a fair\nsumming up of the remarkable activity of this man with the exception of\nthe first point. Montaigne, Ratke, and Bacon h",
+        "metadata": {
+          "unit_id": "chapter_xxxiii_u09",
+          "chapter": "CHAPTER XXXIII",
+          "part": "part_3",
+          "file_item": "4233368849469751372_27963-h-3.htm.xhtml",
+          "char_count": 1884,
+          "strategy": "C",
+          "chunk_index": 0,
+          "document_id": "gutenberg-27963",
+          "source": "data/book.epub",
+          "page": 29
+        }
+      },
+      {
+        "rank": 3,
+        "chunk_id": "gutenberg-27963::C::p045::c001",
+        "score": 0.503814,
+        "text": "[97] Laurie, \"Life of Comenius,\" p. 14.\n\n[98] Preface to the \"Prodromus.\"\n\n[99] Raumer, \"Geschichte der Pädagogik.\"\n\n[100] \"Educational Reformers,\" p. 73.\n\n[101] \"History of Modern Education,\" p. 151.\n\n[102] \"History of Pedagogy,\" p. 122.\n\n[103] See \"Orbis Pictus,\" edited and published by C. W.\nBardeen, Syracuse, N.Y.\n\n[104] Laurie's \"Life and Works of Comenius,\" p. 77.\n\n[105] Ibid. , p. 105.\n\n[106] For full discussion of the pedagogical principles of\nComenius, see Professor Laurie's great work.\n\n[107] \"Educational Reformers,\" p. 59.\n\n[108] \"Tractate,\" p. 3.\n\n[109] See Fowler's \"Locke.\" Also Quick, Compayré, and\nWilliams.\n\n[110] \"History of Modern Education,\" p. 181.\n\n[111] \"History of Pedagogy,\" p. 165.\n\n[112] \"Schoolmaster in Comedy and Satire,\" pp. 73-100.",
+        "metadata": {
+          "unit_id": "chapter_xxxiii_u25",
+          "chapter": "CHAPTER XXXIII",
+          "part": "part_3",
+          "file_item": "4233368849469751372_27963-h-3.htm.xhtml",
+          "char_count": 1686,
+          "strategy": "C",
+          "chunk_index": 1,
+          "document_id": "gutenberg-27963",
+          "source": "data/book.epub",
+          "page": 45
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "q10",
+    "split": "dev",
+    "type": "metadata_filter",
+    "question": "Within this part of the text, which university served as the center of the Pietist movement in Germany?",
+    "applied_filter": {
+      "chapter": "CHAPTER XXXIV"
+    },
+    "filter_compliant": true,
+    "gold_source_id": "gutenberg-27963",
+    "gold_page": 46,
+    "evidence_quote": "The Pietists founded the university of Halle, and this remained the center of the movement until it had run its course.",
+    "hit_at_1": 1,
+    "hit_at_3": 1,
+    "top_k_hits": [
+      {
+        "rank": 1,
+        "chunk_id": "gutenberg-27963::C::p046::c003",
+        "score": 0.716649,
+        "text": "The Pietists founded the university of Halle, and this remained the\ncenter of the movement until it had run its course. Pietism had its\ninception during the latter part of the seventeenth century, and it\nextended through the first half of the eighteenth century. Its\noriginator was Philipp Jakob Spener, a man of remarkable zeal and godly\nlife. Though it met with bitter opposition on the part of the orthodox\nLutherans, it certainly did great good, not only to its adherents, but\nto the Church at large, by awakening deeper spiritual life. Its\ninfluence was also great in reviving Biblical study in Germany, in\nimproving the character of teachers, and in giving a spiritual direction\nto the studies of the schools. It has left an enduring monument in the\ngreat Institutions that it founded at Halle.",
+        "metadata": {
+          "unit_id": "chapter_xxxiv_u01",
+          "chapter": "CHAPTER XXXIV",
+          "part": "part_3",
+          "file_item": "4233368849469751372_27963-h-3.htm.xhtml",
+          "char_count": 1963,
+          "strategy": "C",
+          "chunk_index": 3,
+          "document_id": "gutenberg-27963",
+          "source": "data/book.epub",
+          "page": 46
+        }
+      },
+      {
+        "rank": 2,
+        "chunk_id": "gutenberg-27963::C::p046::c001",
+        "score": 0.613577,
+        "text": "Pietism is the name of a movement in Germany which sought to revive\nspiritual life in the Lutheran Church. In that church, religion had\nbecome purely a matter of intellect, instead of heart. Cold formality\nand adherence to the letter, rather than the spirit, had taken\npossession of the Protestant Church. Like the Jansenists in France, who\nhad a similar purpose with reference to the Catholic Church, and later\nthe Methodists in England, who sought to awaken religious zeal in the\nChurch of England, the Pietists of Germany endeavored to vitalize\nreligious life, and to lead men away from creeds promulgated by human\nagency, to the pure word of God. The Pietists differed from the orthodox\nLutherans not in doctrine, but in insisting on the necessity of a change\nof heart and a pious life, instead o",
+        "metadata": {
+          "unit_id": "chapter_xxxiv_u01",
+          "chapter": "CHAPTER XXXIV",
+          "part": "part_3",
+          "file_item": "4233368849469751372_27963-h-3.htm.xhtml",
+          "char_count": 1963,
+          "strategy": "C",
+          "chunk_index": 1,
+          "document_id": "gutenberg-27963",
+          "source": "data/book.epub",
+          "page": 46
+        }
+      },
+      {
+        "rank": 3,
+        "chunk_id": "gutenberg-27963::C::p046::c004",
+        "score": 0.604848,
+        "text": "n the\ngreat Institutions that it founded at Halle. The greatest of the\nPietists was August Hermann Francke, who is celebrated, not only as a\ntheologian, but as a philanthropist and teacher.",
+        "metadata": {
+          "unit_id": "chapter_xxxiv_u01",
+          "chapter": "CHAPTER XXXIV",
+          "part": "part_3",
+          "file_item": "4233368849469751372_27963-h-3.htm.xhtml",
+          "char_count": 1963,
+          "strategy": "C",
+          "chunk_index": 4,
+          "document_id": "gutenberg-27963",
+          "source": "data/book.epub",
+          "page": 46
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "q11",
+    "split": "dev",
+    "type": "dieu_kien_ngoai_le",
+    "question": "In Rousseau's educational scheme for Émile between ages twelve and fifteen, which single book was permitted?",
+    "applied_filter": null,
+    "filter_compliant": null,
+    "gold_source_id": "gutenberg-27963",
+    "gold_page": 59,
+    "evidence_quote": "No books are permitted save \"Robinson Crusoe,\" which Rousseau finds entirely suitable for Émile .",
+    "hit_at_1": 0,
+    "hit_at_3": 0,
+    "top_k_hits": [
+      {
+        "rank": 1,
+        "chunk_id": "gutenberg-27963::C::p058::c002",
+        "score": 0.712791,
+        "text": "He is to have a preceptor devoted entirely to him, not to instruct or\ncontrol him, but to lead him to discover and experience for himself. In\nregard to his intellectual instruction, Rousseau says of Émile at\ntwelve years of age, \"that he has not learned to distinguish his right\nhand from his left.\" Books are entirely proscribed, and, indeed, they\nare useless to him as he cannot read; the only intellectual knowledge\nthe child receives is that which comes from things through his own\nexperience.",
+        "metadata": {
+          "unit_id": "chapter_xxxvi_u04",
+          "chapter": "CHAPTER XXXVI",
+          "part": "part_4",
+          "file_item": "4233368849469751372_27963-h-4.htm.xhtml",
+          "char_count": 1642,
+          "strategy": "C",
+          "chunk_index": 2,
+          "document_id": "gutenberg-27963",
+          "source": "data/book.epub",
+          "page": 58
+        }
+      },
+      {
+        "rank": 2,
+        "chunk_id": "gutenberg-27963::C::p060::c000",
+        "score": 0.664094,
+        "text": "( e ) The fourth period of education begins at fifteen, the period of\nadolescence. At this time, \" Émile will know nothing of history,\nnothing of humanity, nothing of art and literature, nothing of God; but\nhe will know a manual trade.\" Rousseau himself says, \" Émile has but\nlittle knowledge, but that which he has is really his own; he knows\nnothing by halves.\" He has a mind which, \"if not instructed, is at least\ncapable of being instructed.\" The remaining work to be done in the\neducation of Émile consists in training the sentiments of affection,\nthe moral and the religious sentiments. The feeling of love for his\nfellow-beings is now to be cultivated. The error of this is shown by\nCompayré, who says, \"For fifteen years Rousseau leaves the heart of Émile unoccupied.... Rousseau made the mis",
+        "metadata": {
+          "unit_id": "chapter_xxxvi_u06",
+          "chapter": "CHAPTER XXXVI",
+          "part": "part_4",
+          "file_item": "4233368849469751372_27963-h-4.htm.xhtml",
+          "char_count": 2386,
+          "strategy": "C",
+          "chunk_index": 0,
+          "document_id": "gutenberg-27963",
+          "source": "data/book.epub",
+          "page": 60
+        }
+      },
+      {
+        "rank": 3,
+        "chunk_id": "gutenberg-27963::C::p060::c003",
+        "score": 0.65677,
+        "text": "As to religion, Émile does not yet know at fifteen that he has a soul,\nand Rousseau thinks that perhaps the eighteenth year is still too early\nfor him to learn that fact; for, if he tries to learn it before the\nproper time, he runs the risk of never really knowing that he possesses\nan immortal soul. But as religion furnishes a check upon the passions,\nit should be taught to the boy when eighteen years of age. He is not to\nbe instructed in the doctrines of any particular sect, but should be\nallowed to select that religious belief which most strongly appeals to\nhis reason. Modern investigation has proven the utter fallacy of\nRousseau's teachings in this respect. Indeed, it seems to be established\nthat the most orthodox period of the child's life occurs before the\nfifteenth year, the time whe",
+        "metadata": {
+          "unit_id": "chapter_xxxvi_u06",
+          "chapter": "CHAPTER XXXVI",
+          "part": "part_4",
+          "file_item": "4233368849469751372_27963-h-4.htm.xhtml",
+          "char_count": 2386,
+          "strategy": "C",
+          "chunk_index": 3,
+          "document_id": "gutenberg-27963",
+          "source": "data/book.epub",
+          "page": 60
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "q12",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "How many pupils were found in Basedow's Philanthropin during the public examination in May 1776?",
+    "applied_filter": null,
+    "filter_compliant": null,
+    "gold_source_id": "gutenberg-27963",
+    "gold_page": 63,
+    "evidence_quote": "they found only thirteen pupils in the Philanthropin, including Basedow's own son and daughter.",
+    "hit_at_1": 1,
+    "hit_at_3": 1,
+    "top_k_hits": [
+      {
+        "rank": 1,
+        "chunk_id": "gutenberg-27963::C::p063::c001",
+        "score": 0.77182,
+        "text": "ber of\nschoolmasters and others collected from different parts of Germany, and\neven from beyond Germany, to be present by Basedow's invitation at an\nexamination of the children, they found only thirteen pupils in the\nPhilanthropin, including Basedow's own son and daughter.\" [130]",
+        "metadata": {
+          "unit_id": "chapter_xxxvii_u02",
+          "chapter": "CHAPTER XXXVII",
+          "part": "part_4",
+          "file_item": "4233368849469751372_27963-h-4.htm.xhtml",
+          "char_count": 1753,
+          "strategy": "C",
+          "chunk_index": 1,
+          "document_id": "gutenberg-27963",
+          "source": "data/book.epub",
+          "page": 63
+        }
+      },
+      {
+        "rank": 2,
+        "chunk_id": "gutenberg-27963::C::p063::c002",
+        "score": 0.646238,
+        "text": "The main purpose of the Philanthropin was to give Basedow an opportunity\nto carry out his new educational ideas. A prominent feature of the\nundertaking was that it should be a model institute \"for the preparation\nof teachers in the theory and practice of the new education.\" The\ninstitution, was to be a \"school of true humanity. Its name was to give\nevidence of its object—the education of youth in accordance with the\nlaws of nature and humanity.\" In it Basedow was to exemplify his ideas\nof education. The best of teachers were to be employed, the best\nappliances furnished, and the instruction was to be founded entirely on\nsense-perception. The Philanthropin was opened in 1774, and at once\nawoke universal interest.",
+        "metadata": {
+          "unit_id": "chapter_xxxvii_u02",
+          "chapter": "CHAPTER XXXVII",
+          "part": "part_4",
+          "file_item": "4233368849469751372_27963-h-4.htm.xhtml",
+          "char_count": 1753,
+          "strategy": "C",
+          "chunk_index": 2,
+          "document_id": "gutenberg-27963",
+          "source": "data/book.epub",
+          "page": 63
+        }
+      },
+      {
+        "rank": 3,
+        "chunk_id": "gutenberg-27963::C::p063::c000",
+        "score": 0.628888,
+        "text": "The Philanthropin. —Indirectly through Goethe, Prince Leopold of\nDessau was attracted to Basedow. The prince determined to found an\ninstitute in which the plans of the great educator could be carried out.\nThe institute, called the Philanthropin, was established, and became\ncelebrated throughout Europe. Quick says: \"Then, for the first and\nprobably for the last time, a school was started in which use and wont\nwere entirely set aside, and everything done on 'improved principles.'\nSuch a bold enterprise attracted the attention of all interested in\neducation, far and near; but it would seem that few parents considered\ntheir own children vilia corpora (vile bodies), on whom experiments\nmight be made for the public good. When, in May, 1776, a number of\nschoolmasters and others collected from dif",
+        "metadata": {
+          "unit_id": "chapter_xxxvii_u02",
+          "chapter": "CHAPTER XXXVII",
+          "part": "part_4",
+          "file_item": "4233368849469751372_27963-h-4.htm.xhtml",
+          "char_count": 1753,
+          "strategy": "C",
+          "chunk_index": 0,
+          "document_id": "gutenberg-27963",
+          "source": "data/book.epub",
+          "page": 63
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "q13",
+    "split": "dev",
+    "type": "metadata_filter",
+    "question": "For the educator profiled in this chapter, what was the name of the unimproved farm in Aargau where he started his agricultural and industrial school experiments?",
+    "applied_filter": {
+      "chapter": "CHAPTER XXXVIII"
+    },
+    "filter_compliant": true,
+    "gold_source_id": "gutenberg-27963",
+    "gold_page": 71,
+    "evidence_quote": "He named the place Neuhof.",
+    "hit_at_1": 1,
+    "hit_at_3": 1,
+    "top_k_hits": [
+      {
+        "rank": 1,
+        "chunk_id": "gutenberg-27963::C::p071::c001",
+        "score": 0.554755,
+        "text": "Farming. —The advice of a dying friend, Bluntschli, \"Never embark in\nany operation which might become dangerous to your peace of mind,\nbecause of the simplicity and tenderness of your disposition,\" may have\nhad its effect upon Pestalozzi. He now entered upon his third venture.\nHaving induced a wealthy firm in Zurich to advance him money, he bought\nabout one hundred acres of unimproved land in the canton of Aargau,\nwhere he proposed to raise madder as a means of profit. Once more his\nreal purpose was philanthropic, as he intended to show the poor peasants\nimproved methods of farming whereby they could obtain better results for their labor and thereby be enabled to live more comfortably. He named\nthe place Neuhof.",
+        "metadata": {
+          "unit_id": "chapter_xxxviii_u04",
+          "chapter": "CHAPTER XXXVIII",
+          "part": "part_4",
+          "file_item": "4233368849469751372_27963-h-4.htm.xhtml",
+          "char_count": 2722,
+          "strategy": "C",
+          "chunk_index": 1,
+          "document_id": "gutenberg-27963",
+          "source": "data/book.epub",
+          "page": 71
+        }
+      },
+      {
+        "rank": 2,
+        "chunk_id": "gutenberg-27963::C::p073::c000",
+        "score": 0.546688,
+        "text": "Accordingly, after the failure caused by the withdrawal of the financial\nsupport heretofore mentioned, he started again at Neuhof, using his\nwife's money. He opened an \"industrial school for the poor,\" which Krüsi\ncalls \"the first school of its kind ever conceived, and the mother of\nhundreds now existing on both sides of the Atlantic.\" This was in 1775.\nHe gathered fifty children together, and fed, clothed, housed, and\ntaught them without compensation; in return for this they were to work\nin the fields in summer and at spinning in the winter. But this\nexperiment also was doomed to bring disappointment. The children were\nlazy, shiftless, and dishonest; their work was of little use to\nPestalozzi, because of their lack of skill and their bad habits. They\nwould often run away as soon as they w",
+        "metadata": {
+          "unit_id": "chapter_xxxviii_u06",
+          "chapter": "CHAPTER XXXVIII",
+          "part": "part_4",
+          "file_item": "4233368849469751372_27963-h-4.htm.xhtml",
+          "char_count": 1520,
+          "strategy": "C",
+          "chunk_index": 0,
+          "document_id": "gutenberg-27963",
+          "source": "data/book.epub",
+          "page": 73
+        }
+      },
+      {
+        "rank": 3,
+        "chunk_id": "gutenberg-27963::C::p073::c002",
+        "score": 0.505985,
+        "text": "This could not continue long, and in 1780 Pestalozzi was obliged to\nclose his school. He found himself badly in debt, with his wife's\nproperty gone. But even under these overwhelming misfortunes he says,\n\"My failure showed me the truth of my plans,\" and this has long since\nbeen verified, both in his ideas of farming and in the industrial\nschool.",
+        "metadata": {
+          "unit_id": "chapter_xxxviii_u06",
+          "chapter": "CHAPTER XXXVIII",
+          "part": "part_4",
+          "file_item": "4233368849469751372_27963-h-4.htm.xhtml",
+          "char_count": 1520,
+          "strategy": "C",
+          "chunk_index": 2,
+          "document_id": "gutenberg-27963",
+          "source": "data/book.epub",
+          "page": 73
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "q14",
+    "split": "dev",
+    "type": "dien_dat_lai",
+    "question": "How did Froebel come up with the name 'Kindergarten' for his institution?",
+    "applied_filter": null,
+    "filter_compliant": null,
+    "gold_source_id": "gutenberg-27963",
+    "gold_page": 85,
+    "evidence_quote": "Suddenly he stood still as if riveted to the spot, and his eyes grew wonderfully bright. Then he shouted to the mountain so that it echoed to the four winds, 'Eureka! Kindergarten shall the institute be called!'",
+    "hit_at_1": 0,
+    "hit_at_3": 0,
+    "top_k_hits": [
+      {
+        "rank": 1,
+        "chunk_id": "gutenberg-27963::C::p085::c001",
+        "score": 0.804326,
+        "text": "The Kindergarten. —Mr. Herford says of Froebel's institution at\nBurgdorf, that, \"Here we recognize the rise of the kindergarten, not yet\nso named.\" [153] The name came to Froebel a few years later as an\ninspiration. He had returned to Keilhau and opened a school in the\nneighboring town of Blankenburg. For a long time he had been pondering\nover a suitable name for the new institution. \"While taking a walk one\nday with Middendorff and Barof to Blankenburg over the Steiger Pass,\nFroebel kept repeating, 'Oh, if I could only think of a good name for my\nyoungest born!' Blankenburg lay at our feet, and he walked moodily\ntoward it. Suddenly he stood still as if riveted to the spot, and his\neyes grew wonderfully bright. Then he shouted to the mountain so that it\nechoed to the four winds, 'Eureka! K",
+        "metadata": {
+          "unit_id": "chapter_xxxix_u05",
+          "chapter": "CHAPTER XXXIX",
+          "part": "part_4",
+          "file_item": "4233368849469751372_27963-h-4.htm.xhtml",
+          "char_count": 2040,
+          "strategy": "C",
+          "chunk_index": 1,
+          "document_id": "gutenberg-27963",
+          "source": "data/book.epub",
+          "page": 85
+        }
+      },
+      {
+        "rank": 2,
+        "chunk_id": "gutenberg-27963::C::p085::c000",
+        "score": 0.649325,
+        "text": "But Froebel received more encouragement in Switzerland. He admitted\nchildren from four to six years of age, and organized a teachers' class\nto study his theories. Although Froebel did not remain long in\nSwitzerland, that land proved congenial to his ideas, and the\nkindergarten has flourished there from his time to the present. Great\ncredit is due to this country, which extended its hospitality to the two\ngreat educational modern reformers, Pestalozzi and Froebel!",
+        "metadata": {
+          "unit_id": "chapter_xxxix_u05",
+          "chapter": "CHAPTER XXXIX",
+          "part": "part_4",
+          "file_item": "4233368849469751372_27963-h-4.htm.xhtml",
+          "char_count": 2040,
+          "strategy": "C",
+          "chunk_index": 0,
+          "document_id": "gutenberg-27963",
+          "source": "data/book.epub",
+          "page": 85
+        }
+      },
+      {
+        "rank": 3,
+        "chunk_id": "gutenberg-27963::C::p086::c000",
+        "score": 0.639686,
+        "text": "The \"Education of Man.\" —Froebel gives his philosophy of education in\nhis \"Education of Man,\" but his most popular work is \"Songs for Mother\nand Nursery.\" His chief contribution to the work of educational reform\nis the kindergarten, an institution that has been ingrafted upon the\nschool systems of many lands, and that is destined to become ever\nincreasingly potent for good. In no country in the world has the\nkindergarten taken so strong a hold and made so great progress as in\nAmerica. The purpose of the kindergarten, according to Froebel himself,\nis, \"to take the oversight of children before they are ready for school\nlife; to exert an influence over their whole being in correspondence\nwith its nature; to strengthen their bodily powers; to exercise their\nsenses; to employ the awakening mind",
+        "metadata": {
+          "unit_id": "chapter_xxxix_u06",
+          "chapter": "CHAPTER XXXIX",
+          "part": "part_4",
+          "file_item": "4233368849469751372_27963-h-4.htm.xhtml",
+          "char_count": 1608,
+          "strategy": "C",
+          "chunk_index": 0,
+          "document_id": "gutenberg-27963",
+          "source": "data/book.epub",
+          "page": 86
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "q15",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "Which famous philosopher's chair of philosophy at Königsberg was Herbart called to occupy in 1809?",
+    "applied_filter": null,
+    "filter_compliant": null,
+    "gold_source_id": "gutenberg-27963",
+    "gold_page": 89,
+    "evidence_quote": "In 1809, he was called to the chair of philosophy at Königsberg once occupied by Kant.",
+    "hit_at_1": 1,
+    "hit_at_3": 1,
+    "top_k_hits": [
+      {
+        "rank": 1,
+        "chunk_id": "gutenberg-27963::C::p089::c000",
+        "score": 0.725492,
+        "text": "As Professor. —In 1802 he took the first step in his academic career\nas Privat Docent at the university of Göttingen. This with him was a\nperiod of great literary activity. [156] In 1809, he was called to the\nchair of philosophy at Königsberg once occupied by Kant. He calls this\n\"the most renowned chair of philosophy, the place which when a boy I\nlonged for in reverential dreams, as I studied the works of the sage of\nKönigsberg.\" [157]",
+        "metadata": {
+          "unit_id": "chapter_xl_u03",
+          "chapter": "CHAPTER XL",
+          "part": "part_4",
+          "file_item": "4233368849469751372_27963-h-4.htm.xhtml",
+          "char_count": 1719,
+          "strategy": "C",
+          "chunk_index": 0,
+          "document_id": "gutenberg-27963",
+          "source": "data/book.epub",
+          "page": 89
+        }
+      },
+      {
+        "rank": 2,
+        "chunk_id": "gutenberg-27963::C::p090::c001",
+        "score": 0.608141,
+        "text": "Literary Activity. —Herbart's literary activity at Königsberg was\ngreat. He worked out his psychological system, and wrote also on\nphilosophy, history, and pedagogy. But his greatest works in the latter\nfield are his \"A B C der Anschauung,\" [159] and his \"Allgemeine\nPädagogik,\" [160] both of which appeared while he was still at\nGöttingen. [161] In 1833, after twenty-four years in Königsberg, he\nreturned to Göttingen, where his lifework was completed in 1841. Upon\nhis retirement from Königsberg, the practice school was closed. Ten\nyears later, a pupil of Herbart, Karl Volkmar Stoy, established the\npractice school at Jena, of which mention has already been made. Two\nschools of Herbartians exist in Germany, the Stoy school, which attempts\nto follow Herbart very closely, and the Ziller school,",
+        "metadata": {
+          "unit_id": "chapter_xl_u04",
+          "chapter": "CHAPTER XL",
+          "part": "part_4",
+          "file_item": "4233368849469751372_27963-h-4.htm.xhtml",
+          "char_count": 2147,
+          "strategy": "C",
+          "chunk_index": 1,
+          "document_id": "gutenberg-27963",
+          "source": "data/book.epub",
+          "page": 90
+        }
+      },
+      {
+        "rank": 3,
+        "chunk_id": "gutenberg-27963::C::p087::c001",
+        "score": 0.593398,
+        "text": "It is probable that no system of pedagogy is attracting so much\nattention and awakening so much interest at the present time as that of\nHerbart. Professor Rein says, \"He who nowadays will aspire to the\nhighest pedagogical knowledge, cannot neglect to make a thorough study\nof Herbart's pedagogy.\" Johann Friedrich Herbart was born at Oldenburg,\nMay 4, 1776. His grandfather was rector of the Gymnasium at Oldenburg\nfor thirty-four years; his father was a high official under the\ngovernment; but his mother seems to have wielded the most influence over\nhim. She watched over his studies with greatest care, and, indeed,\nstudied Greek herself to spur him on. Though gentle and mild, she was\nfirm in discipline. The father was satisfied to leave the direction of\nthe education of his son to her. There w",
+        "metadata": {
+          "unit_id": "chapter_xl_u01",
+          "chapter": "CHAPTER XL",
+          "part": "part_4",
+          "file_item": "4233368849469751372_27963-h-4.htm.xhtml",
+          "char_count": 1619,
+          "strategy": "C",
+          "chunk_index": 1,
+          "document_id": "gutenberg-27963",
+          "source": "data/book.epub",
+          "page": 87
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "q16",
+    "split": "test",
+    "type": "dieu_kien_ngoai_le",
+    "question": "In Jesuit institutions, how were students divided between the lower and higher departments, and at what age were boys admitted to the lower course?",
+    "applied_filter": null,
+    "filter_compliant": null,
+    "gold_source_id": "gutenberg-27963",
+    "gold_page": 5,
+    "evidence_quote": "Every Jesuit school was divided into two departments, the lower, studia inferiora , consisting of five classes, and the higher, studia superiora , requiring two or three years. Boys were admitted to the lower course at the age of fourteen",
+    "hit_at_1": 1,
+    "hit_at_3": 1,
+    "top_k_hits": [
+      {
+        "rank": 1,
+        "chunk_id": "gutenberg-27963::C::p005::c000",
+        "score": 0.781311,
+        "text": "Every Jesuit school was divided into two departments, the lower, studia inferiora , consisting of five classes, and the higher, studia\nsuperiora , requiring two or three years. Boys were admitted to the\nlower course at the age of fourteen, and the work consisted chiefly of\nthe study of the humanities, while that of the advanced course embraced\nphilosophy and theology. [68] With reference to these courses of study,\nQuick says, \"The Jesuit system stands out in the history of education as\na remarkable instance of a school system elaborately thought out and\nworked as a whole.\" Again, he says of the Ratio Studiorum : [69] \"It\npoints out a perfectly attainable goal, and carefully defines the road\nby which that goal is to be approached. For each class was prescribed\nnot only the work to be done,",
+        "metadata": {
+          "unit_id": "chapter_xxx_u04",
+          "chapter": "CHAPTER XXX",
+          "part": "part_3",
+          "file_item": "4233368849469751372_27963-h-3.htm.xhtml",
+          "char_count": 1622,
+          "strategy": "C",
+          "chunk_index": 0,
+          "document_id": "gutenberg-27963",
+          "source": "data/book.epub",
+          "page": 5
+        }
+      },
+      {
+        "rank": 2,
+        "chunk_id": "gutenberg-27963::C::p004::c000",
+        "score": 0.593968,
+        "text": "Jesuit Education. —Unlike the monastics, the Jesuits mingled with the\nworld; they assumed no peculiarities of dress, and held themselves ready\nto act as missionaries to the most remote parts of the world, as agents\nof the Church to which they so fully consecrated themselves, and as\nteachers of youth. They established schools everywhere, and placed them\nin charge of teachers of remarkable skill and pedagogical training. [64] We have seen that their efforts were chiefly directed to higher\neducation, their schools being designed for boys not less than fourteen\nyears of age. In general, primary education did not enter into their\nscheme. Schwickerath thinks that the \"Jesuits could not undertake\nelementary education\" because \"they had never men enough to supply the\ndemands for higher education.\"",
+        "metadata": {
+          "unit_id": "chapter_xxx_u03",
+          "chapter": "CHAPTER XXX",
+          "part": "part_3",
+          "file_item": "4233368849469751372_27963-h-3.htm.xhtml",
+          "char_count": 1818,
+          "strategy": "C",
+          "chunk_index": 0,
+          "document_id": "gutenberg-27963",
+          "source": "data/book.epub",
+          "page": 4
+        }
+      },
+      {
+        "rank": 3,
+        "chunk_id": "gutenberg-27963::C::p004::c001",
+        "score": 0.582067,
+        "text": "nough to supply the\ndemands for higher education.\" [65] This shows that they held higher\neducation as of the greater importance, and the same author further\nadds: \"Besides, the whole intellectual training of the Jesuits fitted\nthem better for the higher branches.\" They reached sons of princes,\nnoblemen, and others who constituted the influential classes, [66] but\n\"the Constitutions expressly laid down that poverty and mean extraction\nwere never to be any hindrance to a pupil's admission.\" [67] Instruction\nwas free.",
+        "metadata": {
+          "unit_id": "chapter_xxx_u03",
+          "chapter": "CHAPTER XXX",
+          "part": "part_3",
+          "file_item": "4233368849469751372_27963-h-3.htm.xhtml",
+          "char_count": 1818,
+          "strategy": "C",
+          "chunk_index": 1,
+          "document_id": "gutenberg-27963",
+          "source": "data/book.epub",
+          "page": 4
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "q17",
+    "split": "test",
+    "type": "dien_dat_lai",
+    "question": "What three major contributions did La Salle make to education?",
+    "applied_filter": null,
+    "filter_compliant": null,
+    "gold_source_id": "gutenberg-27963",
+    "gold_page": 42,
+    "evidence_quote": "Education, therefore, owes to La Salle three important contributions,—(1) the Simultaneous Method of Instruction, whereby a number of children of the same advancement are taught together; (2) the first Normal School, established at Rheims, France, in 1684; and (3) a dignifying of the teacher's profession by setting apart trained persons who should give all their time to the work of teaching.",
+    "hit_at_1": 1,
+    "hit_at_3": 1,
+    "top_k_hits": [
+      {
+        "rank": 1,
+        "chunk_id": "gutenberg-27963::C::p042::c003",
+        "score": 0.776679,
+        "text": "Education, therefore, owes to La Salle three important\ncontributions,—(1) the Simultaneous Method of Instruction, whereby a\nnumber of children of the same advancement are taught together; (2) the\nfirst Normal School, established at Rheims, France, in 1684; and (3) a\ndignifying of the teacher's profession by setting apart trained persons\nwho should give all their time to the work of teaching.",
+        "metadata": {
+          "unit_id": "chapter_xxxiii_u22",
+          "chapter": "CHAPTER XXXIII",
+          "part": "part_3",
+          "file_item": "4233368849469751372_27963-h-3.htm.xhtml",
+          "char_count": 1823,
+          "strategy": "C",
+          "chunk_index": 3,
+          "document_id": "gutenberg-27963",
+          "source": "data/book.epub",
+          "page": 42
+        }
+      },
+      {
+        "rank": 2,
+        "chunk_id": "gutenberg-27963::C::p042::c001",
+        "score": 0.681681,
+        "text": "He established the first normal school in history at Rheims in 1684,\nthirteen years before Francke organized his teachers' class at Halle,\nand fifty years before Hecker founded the first Prussian normal school\nat Stettin. La Salle magnified the teacher's office, and urgently\ndemanded professional training for instructors of the young. Brother\nAzarias forcibly sums up La Salle's great work in this respect as\nfollows: \"He is the benefactor of the modern schoolmaster. He it was who\nraised primary teaching out of the ruts of never ending routine, carried\non in the midst of time-honored noise and confusion, and, in giving it\nprinciples and a method, made of it a science. He hedged in the dignity\nof the schoolmaster. He was the first to assert the exclusive right of\nthe master to devote his whol",
+        "metadata": {
+          "unit_id": "chapter_xxxiii_u22",
+          "chapter": "CHAPTER XXXIII",
+          "part": "part_3",
+          "file_item": "4233368849469751372_27963-h-3.htm.xhtml",
+          "char_count": 1823,
+          "strategy": "C",
+          "chunk_index": 1,
+          "document_id": "gutenberg-27963",
+          "source": "data/book.epub",
+          "page": 42
+        }
+      },
+      {
+        "rank": 3,
+        "chunk_id": "gutenberg-27963::C::p042::c000",
+        "score": 0.608925,
+        "text": "La Salle laid down many explicit rules concerning punishment, methods of\nteaching, and school organization in a book called \"The Conduct of\nSchools.\" While modern criticism would condemn many of these rules, we\nthink, with Compayré, that \"whatever the distance which separates these\ngloomy schools from our modern ideal,—from the pleasant, active,\nanimated school, such as we conceive it to-day,—there is none the less\nobligation to do justice to La Salle, to pardon him for practices which\nwere those of his time, and to admire him for the good qualities that\nwere peculiarly his own.\" [114]",
+        "metadata": {
+          "unit_id": "chapter_xxxiii_u22",
+          "chapter": "CHAPTER XXXIII",
+          "part": "part_3",
+          "file_item": "4233368849469751372_27963-h-3.htm.xhtml",
+          "char_count": 1823,
+          "strategy": "C",
+          "chunk_index": 0,
+          "document_id": "gutenberg-27963",
+          "source": "data/book.epub",
+          "page": 42
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "q18",
+    "split": "test",
+    "type": "dieu_kien_ngoai_le",
+    "question": "Why did the Prussian government prohibit kindergartens in 1851, and how long did that prohibition last?",
+    "applied_filter": null,
+    "filter_compliant": null,
+    "gold_source_id": "gutenberg-27963",
+    "gold_page": 84,
+    "evidence_quote": "In 1851 the government prohibited kindergartens, as forming \"a part of the Froebelian socialistic system, the aim of which is to teach children atheism\"; and this decree was in force till 1860!",
+    "hit_at_1": 0,
+    "hit_at_3": 1,
+    "top_k_hits": [
+      {
+        "rank": 1,
+        "chunk_id": "gutenberg-27963::C::p084::c002",
+        "score": 0.650627,
+        "text": "Indeed, to this day, Prussia does not regard the kindergarten as an\neducational institution, nor does she give aid to it as such. The\nkindergarten is officially recognized as a sort of day nursery , its\nteachers are not licensed,—hence have no official standing,—and\n\"everything that pertains to the work of the elementary schools, every\nspecific preparation for the work of the latter, must be strictly\nexcluded, and these schools can in no way be allowed to take the\ncharacter of institutions of learning. Especially can neither reading\nnor arithmetic be allowed a place in them.\" [152]",
+        "metadata": {
+          "unit_id": "chapter_xxxix_u04",
+          "chapter": "CHAPTER XXXIX",
+          "part": "part_4",
+          "file_item": "4233368849469751372_27963-h-4.htm.xhtml",
+          "char_count": 1557,
+          "strategy": "C",
+          "chunk_index": 2,
+          "document_id": "gutenberg-27963",
+          "source": "data/book.epub",
+          "page": 84
+        }
+      },
+      {
+        "rank": 2,
+        "chunk_id": "gutenberg-27963::C::p084::c001",
+        "score": 0.59968,
+        "text": "secution\ndid not cease. In 1851 the government prohibited kindergartens, as\nforming \"a part of the Froebelian socialistic system, the aim of which\nis to teach children atheism\"; and this decree was in force till 1860!",
+        "metadata": {
+          "unit_id": "chapter_xxxix_u04",
+          "chapter": "CHAPTER XXXIX",
+          "part": "part_4",
+          "file_item": "4233368849469751372_27963-h-4.htm.xhtml",
+          "char_count": 1557,
+          "strategy": "C",
+          "chunk_index": 1,
+          "document_id": "gutenberg-27963",
+          "source": "data/book.epub",
+          "page": 84
+        }
+      },
+      {
+        "rank": 3,
+        "chunk_id": "gutenberg-27963::C::p019::c002",
+        "score": 0.576307,
+        "text": "The Educational Situation. —These political conditions had a marked\ninfluence upon education. Schools were abandoned, colleges gave up their\ncharters, and people were content to allow their children to grow up in\nignorance. Indeed, it was not to be expected that, in the midst of their\npoverty and sorrow, parents should care for education. And yet, some\nmost important and wise school laws were enacted and put into force,\nwhich form the basis of the present German school system, as well as the\nschool systems of many other countries. In 1619 the Duke of Weimar\ndecreed that all children, girls as well as boys, should be kept in\nschool for at least six years,—from six to twelve. This is the first\nefficient compulsory education law on record intended for all classes of\nchildren.",
+        "metadata": {
+          "unit_id": "chapter_xxxii_u03",
+          "chapter": "CHAPTER XXXII",
+          "part": "part_3",
+          "file_item": "4233368849469751372_27963-h-3.htm.xhtml",
+          "char_count": 1977,
+          "strategy": "C",
+          "chunk_index": 2,
+          "document_id": "gutenberg-27963",
+          "source": "data/book.epub",
+          "page": 19
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "q19",
+    "split": "test",
+    "type": "truc_tiep",
+    "question": "What annual salary did Horace Mann accept when he became secretary of the Massachusetts State Board of Education?",
+    "applied_filter": null,
+    "filter_compliant": null,
+    "gold_source_id": "gutenberg-27963",
+    "gold_page": 93,
+    "evidence_quote": "Accordingly, having secured the passage of a law establishing a State Board of Education, Mr. Mann was made its secretary at a salary of one thousand dollars a year.",
+    "hit_at_1": 0,
+    "hit_at_3": 1,
+    "top_k_hits": [
+      {
+        "rank": 1,
+        "chunk_id": "gutenberg-27963::C::p094::c001",
+        "score": 0.642583,
+        "text": "Mr. Martin summarizes the work of Horace Mann during these twelve years\nas follows: \"In the evolution of the Massachusetts public schools during\nthese twelve years of Mr. Mann's labors, statistics tell us that the\nappropriations for public schools had doubled; that more than two\nmillion dollars had been spent in providing better schoolhouses; that\nthe wages of men as teachers had increased sixty-two per cent, of women\nfifty-one per cent, while the whole number of women employed as teachers\nhad increased fifty-four per cent; one month had been added to the\naverage length of the schools; the ratio of private school expenditures\nto those of the public schools had diminished from seventy-five per cent\nto thirty-six per cent; the compensation of school committees had been\nmade compulsory, and t",
+        "metadata": {
+          "unit_id": "chapter_xli_u03",
+          "chapter": "CHAPTER XLI",
+          "part": "part_4",
+          "file_item": "4233368849469751372_27963-h-4.htm.xhtml",
+          "char_count": 1900,
+          "strategy": "C",
+          "chunk_index": 1,
+          "document_id": "gutenberg-27963",
+          "source": "data/book.epub",
+          "page": 94
+        }
+      },
+      {
+        "rank": 2,
+        "chunk_id": "gutenberg-27963::C::p095::c004",
+        "score": 0.610562,
+        "text": "[164] Educational Review , Vol. XII, p. 65.\n\n[165] Mrs. Mann, \"Life of Horace Mann,\" p. 10.\n\n[166] Mr. Mann completed the term made vacant by the death of\nJohn Quincy Adams, and was reëlected for the two succeeding terms.\n\n[167] Colonel Parker in article cited.\n\n[168] For an analysis of these Reports, see Dr. Harris's\narticle in Educational Review , Vol. XII, p. 112.\n\n[169] \"Education in Massachusetts,\" p. 174.\n\n[170] \"Horace Mann,\" p. 76.",
+        "metadata": {
+          "unit_id": "chapter_xli_u04",
+          "chapter": "CHAPTER XLI",
+          "part": "part_4",
+          "file_item": "4233368849469751372_27963-h-4.htm.xhtml",
+          "char_count": 2426,
+          "strategy": "C",
+          "chunk_index": 4,
+          "document_id": "gutenberg-27963",
+          "source": "data/book.epub",
+          "page": 95
+        }
+      },
+      {
+        "rank": 3,
+        "chunk_id": "gutenberg-27963::C::p093::c001",
+        "score": 0.595535,
+        "text": "As Educator. —Accordingly, having secured the passage of a law\nestablishing a State Board of Education, Mr. Mann was made its\nsecretary at a salary of one thousand dollars a year. To accept this\nwork, he gave up a lucrative law practice, fine prospects of political\npreferment, and probable fortune, as well as professional fame. He\nentered upon an educational campaign full of discouragement, colossal in\nits undertaking, and sure to arouse bitterest animosities. Of this\nperiod Colonel Parker says, \"The story of his early struggles in this\ndirection has not yet been written. When it is, it will reveal a\nprofound depth of heroism rarely equaled in the history of the world.\"\nMr. Mann visited all parts of the state, lecturing to parents and\nstimulating the teachers. He was often received with co",
+        "metadata": {
+          "unit_id": "chapter_xli_u02",
+          "chapter": "CHAPTER XLI",
+          "part": "part_4",
+          "file_item": "4233368849469751372_27963-h-4.htm.xhtml",
+          "char_count": 1600,
+          "strategy": "C",
+          "chunk_index": 1,
+          "document_id": "gutenberg-27963",
+          "source": "data/book.epub",
+          "page": 93
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "q20",
+    "split": "test",
+    "type": "metadata_filter",
+    "question": "Under the national school system described in this chapter, between what ages is daily school attendance compulsory for every healthy child, and what happens if parents fail to comply?",
+    "applied_filter": {
+      "chapter": "CHAPTER XLII"
+    },
+    "filter_compliant": true,
+    "gold_source_id": "gutenberg-27963",
+    "gold_page": 98,
+    "evidence_quote": "Every child in normal health is required to attend school between the ages of six and fourteen for every day that the school is in session. Parents are held responsible for the attendance of their children, and may be fined or imprisoned for non-fulfillment of the requirements of the law.",
+    "hit_at_1": 1,
+    "hit_at_3": 1,
+    "top_k_hits": [
+      {
+        "rank": 1,
+        "chunk_id": "gutenberg-27963::C::p098::c001",
+        "score": 0.6758,
+        "text": "School Attendance. —Every child in normal health is required to attend\nschool between the ages of six and fourteen for every day that the\nschool is in session. Parents are held responsible for the attendance of\ntheir children, and may be fined or imprisoned for non-fulfillment of\nthe requirements of the law. In case parents are unable to secure the\nattendance of their children, the latter are placed in reform schools.\nThe law is carried out with great strictness and wonderful efficiency.\nFor example, in 1893, out of 5,299,310 children of school age in\nPrussia, there were only 945 unexcused absentees,—that is, 2 in 10,000. All parents expect their children to be in school every day, and\nthe children grow up fully impressed with the idea that they are to\nattend school regularly. The chief re",
+        "metadata": {
+          "unit_id": "chapter_xlii_u03",
+          "chapter": "CHAPTER XLII",
+          "part": "part_4",
+          "file_item": "4233368849469751372_27963-h-4.htm.xhtml",
+          "char_count": 2224,
+          "strategy": "C",
+          "chunk_index": 1,
+          "document_id": "gutenberg-27963",
+          "source": "data/book.epub",
+          "page": 98
+        }
+      },
+      {
+        "rank": 2,
+        "chunk_id": "gutenberg-27963::C::p098::c002",
+        "score": 0.561342,
+        "text": "they are to\nattend school regularly. The chief reason for the efficiency of\ncompulsory attendance in Germany lies in the fact that it covers every\nschool day, and therefore does not allow the formation of habits of\ntruancy.",
+        "metadata": {
+          "unit_id": "chapter_xlii_u03",
+          "chapter": "CHAPTER XLII",
+          "part": "part_4",
+          "file_item": "4233368849469751372_27963-h-4.htm.xhtml",
+          "char_count": 2224,
+          "strategy": "C",
+          "chunk_index": 2,
+          "document_id": "gutenberg-27963",
+          "source": "data/book.epub",
+          "page": 98
+        }
+      },
+      {
+        "rank": 3,
+        "chunk_id": "gutenberg-27963::C::p098::c003",
+        "score": 0.464239,
+        "text": "The Schools. —The common school (Volksschule) of Germany reaches every\nchild, as we have seen. In villages the sexes are taught together; but\nin cities they are generally separated. The school hours are from eight\nto eleven in the forenoon, for six days in the week, and from two to\nfour for four days in the week, Wednesday and Saturday afternoons being\nholidays. These hours may be varied to suit local conditions. The school\nis in session for about forty-two weeks each year. Each teacher is\nrequired to give about twenty-eight hours of service per week, while the\npupils must attend from sixteen hours (for beginners) to twenty-eight.\nThe common schools of Prussia are now practically free. The common\nschool is intended for the common people, and it is not followed by a\nhigh or secondary school",
+        "metadata": {
+          "unit_id": "chapter_xlii_u03",
+          "chapter": "CHAPTER XLII",
+          "part": "part_4",
+          "file_item": "4233368849469751372_27963-h-4.htm.xhtml",
+          "char_count": 2224,
+          "strategy": "C",
+          "chunk_index": 3,
+          "document_id": "gutenberg-27963",
+          "source": "data/book.epub",
+          "page": 98
+        }
+      }
+    ]
+  }
+]

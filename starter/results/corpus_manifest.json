@@ -1,0 +1,719 @@
+{
+  "source_id": "gutenberg-27963",
+  "title": "Project Gutenberg EBook #27963 (Selected Parts h-3 & h-4: Chapters XXX - XLII)",
+  "source_path_or_url": "data/book.epub",
+  "license_or_permission": "Project Gutenberg Public Domain License (verified in h-7.htm.xhtml)",
+  "accessed_at": "2026-11-14T03:43:02.732184+00:00",
+  "unit_rule": "Sequential paragraph-boundary units >= 1500 normalized characters; excluded TOC, cover, and license.",
+  "total_units": 101,
+  "total_characters": 191803,
+  "units": [
+    {
+      "page": 1,
+      "unit_id": "unknown_u01",
+      "chapter": "UNKNOWN",
+      "part": "part_3",
+      "char_count": 996
+    },
+    {
+      "page": 2,
+      "unit_id": "chapter_xxx_u01",
+      "chapter": "CHAPTER XXX",
+      "part": "part_3",
+      "char_count": 2869
+    },
+    {
+      "page": 3,
+      "unit_id": "chapter_xxx_u02",
+      "chapter": "CHAPTER XXX",
+      "part": "part_3",
+      "char_count": 2092
+    },
+    {
+      "page": 4,
+      "unit_id": "chapter_xxx_u03",
+      "chapter": "CHAPTER XXX",
+      "part": "part_3",
+      "char_count": 1818
+    },
+    {
+      "page": 5,
+      "unit_id": "chapter_xxx_u04",
+      "chapter": "CHAPTER XXX",
+      "part": "part_3",
+      "char_count": 1622
+    },
+    {
+      "page": 6,
+      "unit_id": "chapter_xxx_u05",
+      "chapter": "CHAPTER XXX",
+      "part": "part_3",
+      "char_count": 1572
+    },
+    {
+      "page": 7,
+      "unit_id": "chapter_xxx_u06",
+      "chapter": "CHAPTER XXX",
+      "part": "part_3",
+      "char_count": 1639
+    },
+    {
+      "page": 8,
+      "unit_id": "chapter_xxx_u07",
+      "chapter": "CHAPTER XXX",
+      "part": "part_3",
+      "char_count": 2534
+    },
+    {
+      "page": 9,
+      "unit_id": "chapter_xxxi_u01",
+      "chapter": "CHAPTER XXXI",
+      "part": "part_3",
+      "char_count": 1867
+    },
+    {
+      "page": 10,
+      "unit_id": "chapter_xxxi_u02",
+      "chapter": "CHAPTER XXXI",
+      "part": "part_3",
+      "char_count": 2225
+    },
+    {
+      "page": 11,
+      "unit_id": "chapter_xxxi_u03",
+      "chapter": "CHAPTER XXXI",
+      "part": "part_3",
+      "char_count": 1815
+    },
+    {
+      "page": 12,
+      "unit_id": "chapter_xxxi_u04",
+      "chapter": "CHAPTER XXXI",
+      "part": "part_3",
+      "char_count": 1519
+    },
+    {
+      "page": 13,
+      "unit_id": "chapter_xxxi_u05",
+      "chapter": "CHAPTER XXXI",
+      "part": "part_3",
+      "char_count": 1515
+    },
+    {
+      "page": 14,
+      "unit_id": "chapter_xxxi_u06",
+      "chapter": "CHAPTER XXXI",
+      "part": "part_3",
+      "char_count": 3009
+    },
+    {
+      "page": 15,
+      "unit_id": "chapter_xxxi_u07",
+      "chapter": "CHAPTER XXXI",
+      "part": "part_3",
+      "char_count": 1549
+    },
+    {
+      "page": 16,
+      "unit_id": "chapter_xxxi_u08",
+      "chapter": "CHAPTER XXXI",
+      "part": "part_3",
+      "char_count": 3021
+    },
+    {
+      "page": 17,
+      "unit_id": "chapter_xxxii_u01",
+      "chapter": "CHAPTER XXXII",
+      "part": "part_3",
+      "char_count": 1843
+    },
+    {
+      "page": 18,
+      "unit_id": "chapter_xxxii_u02",
+      "chapter": "CHAPTER XXXII",
+      "part": "part_3",
+      "char_count": 1938
+    },
+    {
+      "page": 19,
+      "unit_id": "chapter_xxxii_u03",
+      "chapter": "CHAPTER XXXII",
+      "part": "part_3",
+      "char_count": 1977
+    },
+    {
+      "page": 20,
+      "unit_id": "chapter_xxxii_u04",
+      "chapter": "CHAPTER XXXII",
+      "part": "part_3",
+      "char_count": 2454
+    },
+    {
+      "page": 21,
+      "unit_id": "chapter_xxxiii_u01",
+      "chapter": "CHAPTER XXXIII",
+      "part": "part_3",
+      "char_count": 1704
+    },
+    {
+      "page": 22,
+      "unit_id": "chapter_xxxiii_u02",
+      "chapter": "CHAPTER XXXIII",
+      "part": "part_3",
+      "char_count": 2095
+    },
+    {
+      "page": 23,
+      "unit_id": "chapter_xxxiii_u03",
+      "chapter": "CHAPTER XXXIII",
+      "part": "part_3",
+      "char_count": 1767
+    },
+    {
+      "page": 24,
+      "unit_id": "chapter_xxxiii_u04",
+      "chapter": "CHAPTER XXXIII",
+      "part": "part_3",
+      "char_count": 1671
+    },
+    {
+      "page": 25,
+      "unit_id": "chapter_xxxiii_u05",
+      "chapter": "CHAPTER XXXIII",
+      "part": "part_3",
+      "char_count": 1889
+    },
+    {
+      "page": 26,
+      "unit_id": "chapter_xxxiii_u06",
+      "chapter": "CHAPTER XXXIII",
+      "part": "part_3",
+      "char_count": 1872
+    },
+    {
+      "page": 27,
+      "unit_id": "chapter_xxxiii_u07",
+      "chapter": "CHAPTER XXXIII",
+      "part": "part_3",
+      "char_count": 2032
+    },
+    {
+      "page": 28,
+      "unit_id": "chapter_xxxiii_u08",
+      "chapter": "CHAPTER XXXIII",
+      "part": "part_3",
+      "char_count": 1554
+    },
+    {
+      "page": 29,
+      "unit_id": "chapter_xxxiii_u09",
+      "chapter": "CHAPTER XXXIII",
+      "part": "part_3",
+      "char_count": 1884
+    },
+    {
+      "page": 30,
+      "unit_id": "chapter_xxxiii_u10",
+      "chapter": "CHAPTER XXXIII",
+      "part": "part_3",
+      "char_count": 1615
+    },
+    {
+      "page": 31,
+      "unit_id": "chapter_xxxiii_u11",
+      "chapter": "CHAPTER XXXIII",
+      "part": "part_3",
+      "char_count": 1554
+    },
+    {
+      "page": 32,
+      "unit_id": "chapter_xxxiii_u12",
+      "chapter": "CHAPTER XXXIII",
+      "part": "part_3",
+      "char_count": 1626
+    },
+    {
+      "page": 33,
+      "unit_id": "chapter_xxxiii_u13",
+      "chapter": "CHAPTER XXXIII",
+      "part": "part_3",
+      "char_count": 1913
+    },
+    {
+      "page": 34,
+      "unit_id": "chapter_xxxiii_u14",
+      "chapter": "CHAPTER XXXIII",
+      "part": "part_3",
+      "char_count": 1898
+    },
+    {
+      "page": 35,
+      "unit_id": "chapter_xxxiii_u15",
+      "chapter": "CHAPTER XXXIII",
+      "part": "part_3",
+      "char_count": 1933
+    },
+    {
+      "page": 36,
+      "unit_id": "chapter_xxxiii_u16",
+      "chapter": "CHAPTER XXXIII",
+      "part": "part_3",
+      "char_count": 1600
+    },
+    {
+      "page": 37,
+      "unit_id": "chapter_xxxiii_u17",
+      "chapter": "CHAPTER XXXIII",
+      "part": "part_3",
+      "char_count": 1512
+    },
+    {
+      "page": 38,
+      "unit_id": "chapter_xxxiii_u18",
+      "chapter": "CHAPTER XXXIII",
+      "part": "part_3",
+      "char_count": 2036
+    },
+    {
+      "page": 39,
+      "unit_id": "chapter_xxxiii_u19",
+      "chapter": "CHAPTER XXXIII",
+      "part": "part_3",
+      "char_count": 1629
+    },
+    {
+      "page": 40,
+      "unit_id": "chapter_xxxiii_u20",
+      "chapter": "CHAPTER XXXIII",
+      "part": "part_3",
+      "char_count": 1613
+    },
+    {
+      "page": 41,
+      "unit_id": "chapter_xxxiii_u21",
+      "chapter": "CHAPTER XXXIII",
+      "part": "part_3",
+      "char_count": 2002
+    },
+    {
+      "page": 42,
+      "unit_id": "chapter_xxxiii_u22",
+      "chapter": "CHAPTER XXXIII",
+      "part": "part_3",
+      "char_count": 1823
+    },
+    {
+      "page": 43,
+      "unit_id": "chapter_xxxiii_u23",
+      "chapter": "CHAPTER XXXIII",
+      "part": "part_3",
+      "char_count": 1522
+    },
+    {
+      "page": 44,
+      "unit_id": "chapter_xxxiii_u24",
+      "chapter": "CHAPTER XXXIII",
+      "part": "part_3",
+      "char_count": 1903
+    },
+    {
+      "page": 45,
+      "unit_id": "chapter_xxxiii_u25",
+      "chapter": "CHAPTER XXXIII",
+      "part": "part_3",
+      "char_count": 1686
+    },
+    {
+      "page": 46,
+      "unit_id": "chapter_xxxiv_u01",
+      "chapter": "CHAPTER XXXIV",
+      "part": "part_3",
+      "char_count": 1963
+    },
+    {
+      "page": 47,
+      "unit_id": "chapter_xxxiv_u02",
+      "chapter": "CHAPTER XXXIV",
+      "part": "part_3",
+      "char_count": 2063
+    },
+    {
+      "page": 48,
+      "unit_id": "chapter_xxxiv_u03",
+      "chapter": "CHAPTER XXXIV",
+      "part": "part_3",
+      "char_count": 1520
+    },
+    {
+      "page": 49,
+      "unit_id": "chapter_xxxiv_u04",
+      "chapter": "CHAPTER XXXIV",
+      "part": "part_3",
+      "char_count": 2150
+    },
+    {
+      "page": 50,
+      "unit_id": "chapter_xxxiv_u05",
+      "chapter": "CHAPTER XXXIV",
+      "part": "part_3",
+      "char_count": 2165
+    },
+    {
+      "page": 51,
+      "unit_id": "unknown_u01",
+      "chapter": "UNKNOWN",
+      "part": "part_4",
+      "char_count": 892
+    },
+    {
+      "page": 52,
+      "unit_id": "chapter_xxxv_u01",
+      "chapter": "CHAPTER XXXV",
+      "part": "part_4",
+      "char_count": 1703
+    },
+    {
+      "page": 53,
+      "unit_id": "chapter_xxxv_u02",
+      "chapter": "CHAPTER XXXV",
+      "part": "part_4",
+      "char_count": 1961
+    },
+    {
+      "page": 54,
+      "unit_id": "chapter_xxxv_u03",
+      "chapter": "CHAPTER XXXV",
+      "part": "part_4",
+      "char_count": 2567
+    },
+    {
+      "page": 55,
+      "unit_id": "chapter_xxxvi_u01",
+      "chapter": "CHAPTER XXXVI",
+      "part": "part_4",
+      "char_count": 2664
+    },
+    {
+      "page": 56,
+      "unit_id": "chapter_xxxvi_u02",
+      "chapter": "CHAPTER XXXVI",
+      "part": "part_4",
+      "char_count": 2023
+    },
+    {
+      "page": 57,
+      "unit_id": "chapter_xxxvi_u03",
+      "chapter": "CHAPTER XXXVI",
+      "part": "part_4",
+      "char_count": 1892
+    },
+    {
+      "page": 58,
+      "unit_id": "chapter_xxxvi_u04",
+      "chapter": "CHAPTER XXXVI",
+      "part": "part_4",
+      "char_count": 1642
+    },
+    {
+      "page": 59,
+      "unit_id": "chapter_xxxvi_u05",
+      "chapter": "CHAPTER XXXVI",
+      "part": "part_4",
+      "char_count": 2126
+    },
+    {
+      "page": 60,
+      "unit_id": "chapter_xxxvi_u06",
+      "chapter": "CHAPTER XXXVI",
+      "part": "part_4",
+      "char_count": 2386
+    },
+    {
+      "page": 61,
+      "unit_id": "chapter_xxxvi_u07",
+      "chapter": "CHAPTER XXXVI",
+      "part": "part_4",
+      "char_count": 2193
+    },
+    {
+      "page": 62,
+      "unit_id": "chapter_xxxvii_u01",
+      "chapter": "CHAPTER XXXVII",
+      "part": "part_4",
+      "char_count": 2445
+    },
+    {
+      "page": 63,
+      "unit_id": "chapter_xxxvii_u02",
+      "chapter": "CHAPTER XXXVII",
+      "part": "part_4",
+      "char_count": 1753
+    },
+    {
+      "page": 64,
+      "unit_id": "chapter_xxxvii_u03",
+      "chapter": "CHAPTER XXXVII",
+      "part": "part_4",
+      "char_count": 1886
+    },
+    {
+      "page": 65,
+      "unit_id": "chapter_xxxvii_u04",
+      "chapter": "CHAPTER XXXVII",
+      "part": "part_4",
+      "char_count": 1697
+    },
+    {
+      "page": 66,
+      "unit_id": "chapter_xxxvii_u05",
+      "chapter": "CHAPTER XXXVII",
+      "part": "part_4",
+      "char_count": 1649
+    },
+    {
+      "page": 67,
+      "unit_id": "chapter_xxxvii_u06",
+      "chapter": "CHAPTER XXXVII",
+      "part": "part_4",
+      "char_count": 2493
+    },
+    {
+      "page": 68,
+      "unit_id": "chapter_xxxviii_u01",
+      "chapter": "CHAPTER XXXVIII",
+      "part": "part_4",
+      "char_count": 1513
+    },
+    {
+      "page": 69,
+      "unit_id": "chapter_xxxviii_u02",
+      "chapter": "CHAPTER XXXVIII",
+      "part": "part_4",
+      "char_count": 1612
+    },
+    {
+      "page": 70,
+      "unit_id": "chapter_xxxviii_u03",
+      "chapter": "CHAPTER XXXVIII",
+      "part": "part_4",
+      "char_count": 2114
+    },
+    {
+      "page": 71,
+      "unit_id": "chapter_xxxviii_u04",
+      "chapter": "CHAPTER XXXVIII",
+      "part": "part_4",
+      "char_count": 2722
+    },
+    {
+      "page": 72,
+      "unit_id": "chapter_xxxviii_u05",
+      "chapter": "CHAPTER XXXVIII",
+      "part": "part_4",
+      "char_count": 1510
+    },
+    {
+      "page": 73,
+      "unit_id": "chapter_xxxviii_u06",
+      "chapter": "CHAPTER XXXVIII",
+      "part": "part_4",
+      "char_count": 1520
+    },
+    {
+      "page": 74,
+      "unit_id": "chapter_xxxviii_u07",
+      "chapter": "CHAPTER XXXVIII",
+      "part": "part_4",
+      "char_count": 1780
+    },
+    {
+      "page": 75,
+      "unit_id": "chapter_xxxviii_u08",
+      "chapter": "CHAPTER XXXVIII",
+      "part": "part_4",
+      "char_count": 1560
+    },
+    {
+      "page": 76,
+      "unit_id": "chapter_xxxviii_u09",
+      "chapter": "CHAPTER XXXVIII",
+      "part": "part_4",
+      "char_count": 3008
+    },
+    {
+      "page": 77,
+      "unit_id": "chapter_xxxviii_u10",
+      "chapter": "CHAPTER XXXVIII",
+      "part": "part_4",
+      "char_count": 2111
+    },
+    {
+      "page": 78,
+      "unit_id": "chapter_xxxviii_u11",
+      "chapter": "CHAPTER XXXVIII",
+      "part": "part_4",
+      "char_count": 1664
+    },
+    {
+      "page": 79,
+      "unit_id": "chapter_xxxviii_u12",
+      "chapter": "CHAPTER XXXVIII",
+      "part": "part_4",
+      "char_count": 1700
+    },
+    {
+      "page": 80,
+      "unit_id": "chapter_xxxviii_u13",
+      "chapter": "CHAPTER XXXVIII",
+      "part": "part_4",
+      "char_count": 2665
+    },
+    {
+      "page": 81,
+      "unit_id": "chapter_xxxix_u01",
+      "chapter": "CHAPTER XXXIX",
+      "part": "part_4",
+      "char_count": 1734
+    },
+    {
+      "page": 82,
+      "unit_id": "chapter_xxxix_u02",
+      "chapter": "CHAPTER XXXIX",
+      "part": "part_4",
+      "char_count": 1553
+    },
+    {
+      "page": 83,
+      "unit_id": "chapter_xxxix_u03",
+      "chapter": "CHAPTER XXXIX",
+      "part": "part_4",
+      "char_count": 1827
+    },
+    {
+      "page": 84,
+      "unit_id": "chapter_xxxix_u04",
+      "chapter": "CHAPTER XXXIX",
+      "part": "part_4",
+      "char_count": 1557
+    },
+    {
+      "page": 85,
+      "unit_id": "chapter_xxxix_u05",
+      "chapter": "CHAPTER XXXIX",
+      "part": "part_4",
+      "char_count": 2040
+    },
+    {
+      "page": 86,
+      "unit_id": "chapter_xxxix_u06",
+      "chapter": "CHAPTER XXXIX",
+      "part": "part_4",
+      "char_count": 1608
+    },
+    {
+      "page": 87,
+      "unit_id": "chapter_xl_u01",
+      "chapter": "CHAPTER XL",
+      "part": "part_4",
+      "char_count": 1619
+    },
+    {
+      "page": 88,
+      "unit_id": "chapter_xl_u02",
+      "chapter": "CHAPTER XL",
+      "part": "part_4",
+      "char_count": 1556
+    },
+    {
+      "page": 89,
+      "unit_id": "chapter_xl_u03",
+      "chapter": "CHAPTER XL",
+      "part": "part_4",
+      "char_count": 1719
+    },
+    {
+      "page": 90,
+      "unit_id": "chapter_xl_u04",
+      "chapter": "CHAPTER XL",
+      "part": "part_4",
+      "char_count": 2147
+    },
+    {
+      "page": 91,
+      "unit_id": "chapter_xl_u05",
+      "chapter": "CHAPTER XL",
+      "part": "part_4",
+      "char_count": 2058
+    },
+    {
+      "page": 92,
+      "unit_id": "chapter_xli_u01",
+      "chapter": "CHAPTER XLI",
+      "part": "part_4",
+      "char_count": 2002
+    },
+    {
+      "page": 93,
+      "unit_id": "chapter_xli_u02",
+      "chapter": "CHAPTER XLI",
+      "part": "part_4",
+      "char_count": 1600
+    },
+    {
+      "page": 94,
+      "unit_id": "chapter_xli_u03",
+      "chapter": "CHAPTER XLI",
+      "part": "part_4",
+      "char_count": 1900
+    },
+    {
+      "page": 95,
+      "unit_id": "chapter_xli_u04",
+      "chapter": "CHAPTER XLI",
+      "part": "part_4",
+      "char_count": 2426
+    },
+    {
+      "page": 96,
+      "unit_id": "chapter_xlii_u01",
+      "chapter": "CHAPTER XLII",
+      "part": "part_4",
+      "char_count": 2138
+    },
+    {
+      "page": 97,
+      "unit_id": "chapter_xlii_u02",
+      "chapter": "CHAPTER XLII",
+      "part": "part_4",
+      "char_count": 1674
+    },
+    {
+      "page": 98,
+      "unit_id": "chapter_xlii_u03",
+      "chapter": "CHAPTER XLII",
+      "part": "part_4",
+      "char_count": 2224
+    },
+    {
+      "page": 99,
+      "unit_id": "chapter_xlii_u04",
+      "chapter": "CHAPTER XLII",
+      "part": "part_4",
+      "char_count": 1574
+    },
+    {
+      "page": 100,
+      "unit_id": "chapter_xlii_u05",
+      "chapter": "CHAPTER XLII",
+      "part": "part_4",
+      "char_count": 1611
+    },
+    {
+      "page": 101,
+      "unit_id": "chapter_xlii_u06",
+      "chapter": "CHAPTER XLII",
+      "part": "part_4",
+      "char_count": 1717
+    }
+  ]
+}

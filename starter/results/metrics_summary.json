@@ -1,0 +1,95 @@
+{
+  "A": {
+    "description": "Fixed-size (500 chars, overlap 50), no filter",
+    "chunk_count": 468,
+    "min_chunk_chars": 67,
+    "median_chunk_chars": 500,
+    "max_chunk_chars": 500,
+    "ingest_time_sec": 14.097,
+    "tokens_used": 49140,
+    "estimated_cost_usd": 0.000983,
+    "idempotency_verified": true,
+    "metrics": {
+      "dev": {
+        "total": 15,
+        "hit_at_1_count": 9,
+        "hit_at_1_rate": 0.6,
+        "hit_at_3_count": 10,
+        "hit_at_3_rate": 0.6667,
+        "filter_queries": 0,
+        "filter_compliant_count": 0
+      },
+      "test": {
+        "total": 5,
+        "hit_at_1_count": 2,
+        "hit_at_1_rate": 0.4,
+        "hit_at_3_count": 3,
+        "hit_at_3_rate": 0.6,
+        "filter_queries": 0,
+        "filter_compliant_count": 0
+      }
+    }
+  },
+  "B": {
+    "description": "By-paragraph (max 800 chars), no filter",
+    "chunk_count": 365,
+    "min_chunk_chars": 16,
+    "median_chunk_chars": 584,
+    "max_chunk_chars": 800,
+    "ingest_time_sec": 9.668,
+    "tokens_used": 45669,
+    "estimated_cost_usd": 0.000913,
+    "idempotency_verified": true,
+    "metrics": {
+      "dev": {
+        "total": 15,
+        "hit_at_1_count": 9,
+        "hit_at_1_rate": 0.6,
+        "hit_at_3_count": 12,
+        "hit_at_3_rate": 0.8,
+        "filter_queries": 0,
+        "filter_compliant_count": 0
+      },
+      "test": {
+        "total": 5,
+        "hit_at_1_count": 3,
+        "hit_at_1_rate": 0.6,
+        "hit_at_3_count": 5,
+        "hit_at_3_rate": 1.0,
+        "filter_queries": 0,
+        "filter_compliant_count": 0
+      }
+    }
+  },
+  "C": {
+    "description": "By-paragraph (max 800 chars) + chapter metadata filter",
+    "chunk_count": 365,
+    "min_chunk_chars": 16,
+    "median_chunk_chars": 584,
+    "max_chunk_chars": 800,
+    "ingest_time_sec": 9.559,
+    "tokens_used": 45669,
+    "estimated_cost_usd": 0.000913,
+    "idempotency_verified": true,
+    "metrics": {
+      "dev": {
+        "total": 15,
+        "hit_at_1_count": 9,
+        "hit_at_1_rate": 0.6,
+        "hit_at_3_count": 12,
+        "hit_at_3_rate": 0.8,
+        "filter_queries": 3,
+        "filter_compliant_count": 3
+      },
+      "test": {
+        "total": 5,
+        "hit_at_1_count": 3,
+        "hit_at_1_rate": 0.6,
+        "hit_at_3_count": 5,
+        "hit_at_3_rate": 1.0,
+        "filter_queries": 1,
+        "filter_compliant_count": 1
+      }
+    }
+  }
+}

@@ -1,4 +1,4 @@
 strategy,chunking,chunk_size,overlap,metadata,filter,vectorizer,hypothesis,dev_hit1,dev_hit3,test_hit1,test_hit3,notes
-A,,,,,,,,,,,,
-B,,,,,,,,,,,,
-C,,,,,,,,,,,,
+A,fixed_size,500,50,"document_id,source,page,chunk_id,chapter,part",none,openai:text-embedding-3-small (1536d),"Baseline cắt cứng 500 ký tự có thể làm đứt ranh giới câu/đoạn bằng chứng và gây nhiễu chéo chương.",9/15 (0.6000),10/15 (0.6667),2/5 (0.4000),3/5 (0.6000),"468 chunks | 14.097s | 49140 tokens | $0.000983 | Coherence 1.00/2 | Grounding 3/5 (1.20/2)"
+B,by_paragraph,800,0,"document_id,source,page,chunk_id,chapter,part",none,openai:text-embedding-3-small (1536d),"Gom theo ranh giới đoạn văn (\n\n, max 800 ký tự) giữ trọn mạch ngữ nghĩa và tăng Evidence Hit@3 so với A.",9/15 (0.6000),12/15 (0.8000),3/5 (0.6000),5/5 (1.0000),"365 chunks | 9.668s | 45669 tokens | $0.000913 | Coherence 2.00/2 | Grounding 5/5 (2.00/2)"
+C,by_paragraph,800,0,"document_id,source,page,chunk_id,chapter,part",chapter,openai:text-embedding-3-small (1536d),"Giữ nguyên chunking như B nhưng bổ sung metadata filter theo chapter để loại bỏ nhiễu chéo chương trên các truy vấn có phạm vi chương.",9/15 (0.6000),12/15 (0.8000),3/5 (0.6000),5/5 (1.0000),"365 chunks | 9.559s | 45669 tokens | $0.000913 | Filter compliance 4/4 (100%) | Coherence 2.00/2 | Grounding 5/5 (2.00/2)"
